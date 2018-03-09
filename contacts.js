@@ -24,8 +24,8 @@ function (c, a) {
     var zurich = {
         dump: "#s.zurich.cashdump",
         balance: "#s.accts.balance",
-        user: "n_v83r",
-        pwd: "~Jaike51082"
+        user: "",
+        pwd: ""
         str: '"',
         str_balance: (str+=accts_balance+=str)
         zurichDump : function() {
