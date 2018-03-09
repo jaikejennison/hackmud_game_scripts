@@ -21,4 +21,26 @@ function (c, a) {
 
     return text;
 
+    var zurich = {
+        dump: "#s.zurich.cashdump",
+        balance: "#s.accts.balance",
+        user: "n_v83r",
+        pwd: "~Jaike51082"
+        str: '"',
+        str_balance: (str+=accts_balance+=str)
+        zurichDump : function() {
+            return this.dump+"({"+this.lastName;
+        }
+
+    }
+
+
+    //return #s.zurich.cashdump ({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
+
+
+        var str = '"';
+        res=i.call({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
+        //return #s.zurich.cashdump ({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
+        return res;
+
 }

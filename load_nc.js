@@ -1,14 +1,13 @@
-function(c,a){
-    var i,
-    o;
+function(context, args) {
+    var i, upgrades;
+    upgrades = #s.sys.upgrades()
     function load_locks() {
-        o=#s.sys.upgrades()
-        for (i=0;i<6;i++){#s.sys.upgrades({load:i})}}
+        for (i = 0; i < 6; i++){ #s.sys.upgrades({ load: i }) } }
     function load_all() {
-        for (i=0;i<15;i++){#s.sys.upgrades({load:i})}}
-    if (a==null){
+        for (i=0; i<15; i++) { #s.sys.upgrades({ load: i }) } }
+    if (args==null) {
         load_all()
-    } else if(a.m=="lock"){
+    } else if (args.m=="lock") {
         load_locks()
     }
 }

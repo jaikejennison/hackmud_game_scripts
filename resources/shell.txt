@@ -1,0 +1,1999 @@
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>ros13</color>.<color=#1EFF00FF>pub_info</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>ros_13_update_checker</color>.<color=#1EFF00FF>entry</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>setec_gas</color>.<color=#1EFF00FF>access</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>sn_w</color>.<color=#1EFF00FF>pub_info</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>soylentbean</color>.<color=#1EFF00FF>pub_info</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>tandoori</color>.<color=#1EFF00FF>access</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>the_holy_checksum</color>.<color=#1EFF00FF>access</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>turing_testing</color>.<color=#1EFF00FF>out</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>tyrell</color>.<color=#1EFF00FF>pubinfo</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>vacuum_rescue</color>.<color=#1EFF00FF>entry</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>welsh_measles_info</color>.<color=#1EFF00FF>info</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>weyland</color>.<color=#1EFF00FF>p</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { t:#s.<color=#9B9B9BFF>world_pop</color>.<color=#1EFF00FF>p</color> }
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { <color=#00FFFFFF>t</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>kill_bio</color>.<color=#1EFF00FF>pub</color></color> }</color>
+error
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { <color=#00FFFFFF>t</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>kill_bio</color>.<color=#1EFF00FF>pub</color></color> }</color>
+
+::: FULLSEC NPC LOCS LOCATED :::
+To continue, please <color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color> and copy/paste the following commands.
+If you receive an error, don't worry. Just try the next one.
+
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n1:#s.abndnd_<color=#FFF404FF>©</color>18z5p.pub_info_b3ew6l, n2:#s.abndnd_8ros0n.<color=#23381BFF>¤</color>nfo_96vu92 }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n3:#s.<color=#9B9B9BFF>abndnd_14b7vn</color>.<color=#1EFF00FF>pub_info_612249</color>, n4:#s.<color=#9B9B9BFF>uknown_vyitl8</color>.<color=#1EFF00FF>out_mt0vwx</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n5:#s.<color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color>, n6:#s.<color=#9B9B9BFF>unidentified_cgy28w</color>.<color=#1EFF00FF>external_dxryfg</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n7:#s.<color=#9B9B9BFF>unknown_fprlfd</color>.<color=#1EFF00FF>p_8cbufq</color>, n8:#s.<color=#9B9B9BFF>derelict_k5qrld</color>.<color=#1EFF00FF>pub_</color><color=#F3F998FF>§</color>nfo_ci7aub }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n9:#s.<color=#9B9B9BFF>uknown_zrjtf9</color>.<color=#1EFF00FF>entry_t18g2o</color>, n10:#s.unknown_lqx<color=#F3F998FF>¢</color><color=#9B9B9BFF>vv</color>.<color=#1EFF00FF>entry_la6b06</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n11:#s.<color=#9B9B9BFF>unidentified_98yd49</color>.<color=#1EFF00FF>entry_h19e5r</color>, n12:#s.<color=#9B9B9BFF>abandoned_r7msnh</color>.<color=#1EFF00FF>pub_info_83maab</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n13:#s.unidentifi<color=#FFF404FF>¤</color><color=#9B9B9BFF>d_u2ptov</color>.<color=#1EFF00FF>info_0b3ss1</color>, n14:#s.abandoned_<color=#507AA1FF>ª</color><color=#9B9B9BFF>ulok3</color>.<color=#1EFF00FF>out_bhygqe</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n15:#s.<color=#9B9B9BFF>unknown_u2s6hj</color>.<color=#1EFF00FF>out_e1z5bf</color>, n16:#s.<color=#9B9B9BFF>anonymous_0schwg</color>.<color=#1EFF00FF>extern_au0h3h</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n17:#s.<color=#9B9B9BFF>abandoned_0y6i9h</color>.<color=#1EFF00FF>public_7af5wh</color>, n18:#s.<color=#9B9B9BFF>abandoned_38send</color>.<color=#1EFF00FF>access_m</color><color=#A4E3FFFF>¤</color>ugcn }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n19:#s.<color=#9B9B9BFF>unknown_ua51wz</color>.<color=#1EFF00FF>pub_info_ebw4tp</color>, n20:#s.<color=#9B9B9BFF>anonymous_37zj0j</color>.<color=#1EFF00FF>entry_lcz0h4</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n21:#s.abandoned_cx302p.<color=#676767FF>¨</color>xternal_2qmdrp, n22:#s.<color=#9B9B9BFF>derelict_mkhdjo</color>.<color=#1EFF00FF>p_o1may3</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n23:#s.abndnd_7<color=#0070DDFF>¡</color><color=#9B9B9BFF>tdnv</color>.<color=#1EFF00FF>pub_info_nx3k74</color>, n24:#s.<color=#9B9B9BFF>abandoned_vebhju</color>.<color=#1EFF00FF>p_84c7ie</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n25:#s.<color=#9B9B9BFF>derelict_hzmt17</color>.<color=#1EFF00FF>access_smxj5i</color>, n26:#s.<color=#9B9B9BFF>unknown_90xu7e</color>.<color=#1EFF00FF>pubinfo_hm7tjr</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n27:#s.<color=#9B9B9BFF>abandoned_04ug40</color>.<color=#1EFF00FF>p_40brq9</color>, n28:#s.<color=#9B9B9BFF>unidentified_p6y47h</color>.<color=#1EFF00FF>pu</color><color=#A4E3FFFF>§</color>lic_tfezr4 }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n29:#s.unknown_j<color=#3F3F3FFF>¦</color>9jdu.extern_ovg3ly, n30:#s.<color=#9B9B9BFF>uknown_g4q2rk</color>.<color=#1EFF00FF>extern_ptivaa</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n31:#s.derelict_wej<color=#0073A6FF>¨</color><color=#9B9B9BFF>k4</color>.<color=#1EFF00FF>entry_0donbk</color>, n32:#s.<color=#9B9B9BFF>anonymous_p5gkdt</color>.<color=#1EFF00FF>extern_yx5b5d</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n33:#s.<color=#9B9B9BFF>derelict_r0xnv2</color>.<color=#1EFF00FF>info_gtmon3</color>, n34:#s.<color=#9B9B9BFF>anon_1yskyz</color>.<color=#1EFF00FF>pu</color><color=#7AB2F4FF>£</color>lic_7m9w9v }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n35:#s.unknown_siomh9.<color=#FF0000FF>¦</color>ublic_wfo5cm, n36:#s.<color=#9B9B9BFF>abandoned_55203o</color>.<color=#1EFF00FF>access_zv0qwp</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n37:#s.<color=#9B9B9BFF>anon_9rcdmi</color>.<color=#1EFF00FF>out_dyml21</color>, n38:#s.<color=#9B9B9BFF>unknown_f4zf36</color>.<color=#1EFF00FF>info_pc</color><color=#973984FF>£</color>l0t }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n39:#s.<color=#9B9B9BFF>abandoned_ty57hb</color>.<color=#1EFF00FF>pub_13fpbr</color>, n40:#s.<color=#9B9B9BFF>abandoned_80mo5n</color>.<color=#1EFF00FF>public_qz</color><color=#FF96E0FF>¢</color>ezo }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n41:#s.<color=#9B9B9BFF>anonymous_bhx72v</color>.<color=#1EFF00FF>info_rt48vq</color>, n42:#s.unidentif<color=#FF8383FF>©</color><color=#9B9B9BFF>ed_lh04pv</color>.<color=#1EFF00FF>p_duva7b</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n43:#s.uknown_4h19y<color=#A34F00FF>¡</color>.entry_xfics9, n44:#s.<color=#9B9B9BFF>uknown_j5td7l</color>.<color=#1EFF00FF>access_9j3q69</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n45:#s.unidentified_09v65z.<color=#0073A6FF>¨</color>ub_t5ofq1, n46:#s.<color=#9B9B9BFF>anon_5oe3ok</color>.<color=#1EFF00FF>public_4ubfe0</color> }
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n5</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color></color>, <color=#00FFFFFF>n6</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>unidentified_cgy28w</color>.<color=#1EFF00FF>external_dxryfg</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> hardline required - activate with <color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color>
+
+<color=#FFFFFFFF>>>/kh</color>
+<color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color>
+<color=#9B9B9BFF>-activating hardline-</color>
+
+<color=#FF0000FF>-hardline active-</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n5</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color></color>, <color=#00FFFFFF>n6</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>unidentified_cgy28w</color>.<color=#1EFF00FF>external_dxryfg</color></color> }</color>
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>51<color=#00FFFFFF>K</color>355</color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>derelict_rybzgo</color>
+
+<color=#CACACAFF>-script_slot_v1-</color> acquired
+
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> The script ran for more than 5 seconds and was terminated.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n5</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color></color>, <color=#00FFFFFF>n6</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>unidentified_cgy28w</color>.<color=#1EFF00FF>external_dxryfg</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n29:#s.unknown_j¦9jdu.extern_ovg3ly, <color=#00FFFFFF>n30</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>uknown_g4q2rk</color>.<color=#1EFF00FF>extern_ptivaa</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your command line has an error in it:
+<color=#9B9B9BFF>Unexpected character encountered while parsing value: #. Line 1, position 7.</color>
+
+<color=#9B9B9BFF>2128</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color><color=#1EFF00FF>I just won <color=#CACACAFF>1<color=#1EFF00FF>M</color></color><color=#9B9B9BFF>GC</color> playing <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color> !!!</color><color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n5</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color></color>, <color=#00FFFFFF>n6</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>unidentified_cgy28w</color>.<color=#1EFF00FF>external_dxryfg</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>derelict_rybzgo</color>.<color=#1EFF00FF>pubinfo_jvi7uk</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { <color=#00FFFFFF>t</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>tandoori</color>.<color=#1EFF00FF>access</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> ReferenceError: contiue is not defined
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color> { <color=#00FFFFFF>t</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>empty_nest</color>.<color=#1EFF00FF>out</color></color> }</color>
+
+::: FULLSEC NPC LOCS LOCATED :::
+To continue, please <color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color> and copy/paste the following commands.
+If you receive an error, don't worry. Just try the next one.
+
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n1:#s.<color=#9B9B9BFF>anon_371g3g</color>.<color=#1EFF00FF>extern_bcjeug</color>, n2:#s.<color=#9B9B9BFF>abandoned_7goaij</color>.<color=#1EFF00FF>external_r7l0fm</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n3:#s.<color=#9B9B9BFF>abandoned_mzstd6</color>.<color=#1EFF00FF>p_0hfmvh</color>, n4:#s.unkn<color=#0C112BFF>¢</color><color=#9B9B9BFF>wn_vxy6fo</color>.<color=#1EFF00FF>pubinfo_n95ho2</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n5:#s.<color=#9B9B9BFF>anonymous_exy9gv</color>.<color=#1EFF00FF>entry_k0v3vz</color>, n6:#s.<color=#9B9B9BFF>anonymous_re0o8b</color>.<color=#1EFF00FF>external_7baydc</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n7:#s.<color=#9B9B9BFF>unknown_m2iu5m</color>.<color=#1EFF00FF>external_4s8q2u</color>, n8:#s.<color=#9B9B9BFF>anon_4z9ale</color>.<color=#1EFF00FF>public_t9m3ep</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n9:#s.<color=#9B9B9BFF>uknown_d02xsw</color>.<color=#1EFF00FF>extern_re57jb</color>, n10:#s.<color=#9B9B9BFF>derelict_x9gbrh</color>.<color=#1EFF00FF>out_nnv73e</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n11:#s.anon_3<color=#A88600FF>§</color>1yml.public_lnk4e7, n12:#s.<color=#9B9B9BFF>anon_imyiq8</color>.<color=#1EFF00FF>out_9nktqt</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n13:#s.<color=#9B9B9BFF>abndnd_qkj70l</color>.<color=#1EFF00FF>info_6a21ud</color>, n14:#s.ano<color=#CACACAFF>£</color><color=#9B9B9BFF>_ntupwj</color>.<color=#1EFF00FF>pub_8po4n5</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n15:#s.<color=#9B9B9BFF>anonymous_6xw0vt</color>.<color=#1EFF00FF>public_p7b4f0</color>, n16:#s.<color=#9B9B9BFF>anon_lqqurj</color>.<color=#1EFF00FF>pub_q5s0kv</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n17:#s.<color=#9B9B9BFF>uknown_h1lunr</color>.<color=#1EFF00FF>p_ealxix</color>, n18:#s.anon_<color=#507AA1FF>¨</color><color=#9B9B9BFF>b76km</color>.<color=#1EFF00FF>pub_cppmd9</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n19:#s.<color=#9B9B9BFF>anonymous_u8ln5k</color>.<color=#1EFF00FF>pub_f1m0jd</color>, n20:#s.<color=#9B9B9BFF>abandoned_tc2xpx</color>.<color=#1EFF00FF>out_</color><color=#FFF404FF>£</color>hy1fb }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n21:#s.<color=#9B9B9BFF>anon_omwamh</color>.<color=#1EFF00FF>entry_9jiaaq</color>, n22:#s.<color=#9B9B9BFF>unknown_q5ssun</color>.<color=#1EFF00FF>access_3ctebt</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n23:#s.<color=#9B9B9BFF>unknown_4tec9q</color>.<color=#1EFF00FF>access_nd2s49</color>, n24:#s.<color=#9B9B9BFF>derelict_gjd7yc</color>.<color=#1EFF00FF>pubinfo_0q0iro</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n25:#s.<color=#9B9B9BFF>unknown_qsubeh</color>.<color=#1EFF00FF>out_y0f2vg</color>, n26:#s.<color=#9B9B9BFF>derelict_ns0ie3</color>.<color=#1EFF00FF>entry_knxc6n</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n27:#s.<color=#9B9B9BFF>anonymous_dk95nn</color>.<color=#1EFF00FF>extern_4rlo2i</color>, n28:#s.<color=#9B9B9BFF>derelict_hpa7t5</color>.<color=#1EFF00FF>pub</color><color=#B035EEFF>¤</color>ic_wc0pzh }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n29:#s.<color=#9B9B9BFF>unknown_guyods</color>.<color=#1EFF00FF>pub_cb6i2v</color>, n30:#s.<color=#9B9B9BFF>derelict_0lg1zc</color>.<color=#1EFF00FF>p_gyvgmd</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n31:#s.<color=#9B9B9BFF>unknown_ki51gz</color>.<color=#1EFF00FF>access_2ui2hl</color>, n32:#s.ano<color=#B035EEFF>¥</color><color=#9B9B9BFF>ymous_shqa1h</color>.<color=#1EFF00FF>pub_wcnyqq</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n33:#s.anonymous_tol1m<color=#495225FF>¦</color>.pub_otklxh, n34:#s.anonymous_7ady<color=#FF96E0FF>¥</color>5.access_4y22ya }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n35:#s.<color=#9B9B9BFF>unidentified_gtt9yi</color>.<color=#1EFF00FF>pub_kqxsdf</color>, n36:#s.<color=#9B9B9BFF>unknown_tfq9n8</color>.<color=#1EFF00FF>out_08cnjz</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n37:#s.<color=#9B9B9BFF>unidentified_zbk55i</color>.<color=#1EFF00FF>p_powyqx</color>, n38:#s.<color=#9B9B9BFF>unidentified_gevk5w</color>.<color=#1EFF00FF>pub_info_q6isuk</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n39:#s.<color=#9B9B9BFF>abndnd_1ybeb1</color>.<color=#1EFF00FF>extern_0cdem1</color>, n40:#s.<color=#9B9B9BFF>unidentified_yek337</color>.<color=#1EFF00FF>p_hoafi4</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n41:#s.<color=#9B9B9BFF>unidentified_kfyggs</color>.<color=#1EFF00FF>out_zavzhx</color>, n42:#s.<color=#9B9B9BFF>anon_ca38zy</color>.<color=#1EFF00FF>entry_1fjq0m</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n43:#s.<color=#9B9B9BFF>abndnd_wine2d</color>.<color=#1EFF00FF>entry_v0c2i7</color>, n44:#s.<color=#9B9B9BFF>anon_v8wf1c</color>.<color=#1EFF00FF>entry_p</color><color=#3F3F3FFF>£</color>jh5u }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n45:#s.<color=#9B9B9BFF>unidentified_tx2g05</color>.<color=#1EFF00FF>pub_cmyqsv</color>, n46:#s.<color=#9B9B9BFF>abndnd_turmko</color>.<color=#1EFF00FF>public_b37jyq</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n47:#s.<color=#9B9B9BFF>abndnd_911p5i</color>.<color=#1EFF00FF>p_fh7ppf</color>, n48:#s.<color=#9B9B9BFF>anonymous_e0odnx</color>.<color=#1EFF00FF>inf</color><color=#A34F00FF>ª</color>_ks81eq }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n49:#s.<color=#9B9B9BFF>anonymous_p4d4m6</color>.<color=#1EFF00FF>access_c8qdx6</color>, n50:#s.<color=#9B9B9BFF>derelict_ge84nv</color>.<color=#1EFF00FF>pub_fibyg9</color> }
+ <color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { n51:#s.<color=#9B9B9BFF>unknown_kz7den</color>.<color=#1EFF00FF>external_0yuspe</color>, n52:#s.<color=#9B9B9BFF>unknown_l2vu4l</color>.<color=#1EFF00FF>public_jr8pjc</color> }
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n1</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>anon_371g3g</color>.<color=#1EFF00FF>extern_bcjeug</color></color>, <color=#00FFFFFF>n2</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>abandoned_7goaij</color>.<color=#1EFF00FF>external_r7l0fm</color></color> }</color>
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>50<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>anon_371g3g</color>
+
+<color=#CACACAFF>-char_count_v1-</color> acquired
+
+<color=#00FFFFFF>LOCK_UNLOCKED</color>
+Connection terminated.
+
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>62<color=#00FFFFFF>K</color>163</color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>abandoned_7goaij</color>
+
+<color=#CACACAFF>-ez_35-</color> acquired
+
+<color=#CACACAFF>-char_count_v1-</color> acquired
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n3</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>abandoned_mzstd6</color>.<color=#1EFF00FF>p_0hfmvh</color></color>, n4:#s.unkn¢<color=#9B9B9BFF>wn_vxy6fo</color>.<color=#1EFF00FF>pubinfo_n95ho2</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your command line has an error in it:
+<color=#9B9B9BFF>Unexpected character encountered while parsing value: #. Line 1, position 55.</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n5</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>anonymous_exy9gv</color>.<color=#1EFF00FF>entry_k0v3vz</color></color>, <color=#00FFFFFF>n6</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>anonymous_re0o8b</color>.<color=#1EFF00FF>external_7baydc</color></color> }</color>
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>59<color=#00FFFFFF>K</color>775</color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>anonymous_exy9gv</color>
+
+<color=#9B9B9BFF>2129</color> <color=#FF00ECFF>0000</color> <color=#B3FF9BFF>fran_lee</color> <color=#3F3F3FFF>:::</color>Did you know that a tier 4 system can store 256 upgrades?<color=#3F3F3FFF>:::</color>
+
+<color=#00FFFFFF>LOCK_UNLOCKED</color>
+Connection terminated.
+
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>50<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>anonymous_re0o8b</color>
+
+<color=#CACACAFF>-expose_access_log_v1-</color> acquired
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>open</color> { <color=#00FFFFFF>n9</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>uknown_d02xsw</color>.<color=#1EFF00FF>extern_re57jb</color></color>, <color=#00FFFFFF>n10</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>derelict_x9gbrh</color>.<color=#1EFF00FF>out_nnv73e</color></color> }</color>
+<color=#1EFF00FF>Received</color> <color=#CACACAFF>61<color=#00FFFFFF>K</color>759</color><color=#9B9B9BFF>GC</color> from <color=#9B9B9BFF>uknown_d02xsw</color>
+
+<color=#9B9B9BFF>2130</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color><color=#1EFF00FF>I just won <color=#CACACAFF>50<color=#1EFF00FF>M</color></color><color=#9B9B9BFF>GC</color> playing <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color> !!!</color><color=#3F3F3FFF>:::</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> Error
+
+<color=#FFFFFFFF>>>/dc</color>
+<color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color>{<color=#00FFFFFF>dc</color>:<color=#FF00ECFF>true</color>}
+
+<color=#9B9B9BFF>-hardline disconnected-</color>
+<color=#9B9B9BFF>2130</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#FFF404FF>==== I just searched with <color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>eddar</color> and got 1300 result(s) ====</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#1EFF00FF>gril</color> <color=#3F3F3FFF>:::</color>I just paid out a <color=#9B9B9BFF>gril</color>.<color=#1EFF00FF>keno</color> or a <color=#9B9B9BFF>dtr</color>.<color=#1EFF00FF>haunty_mall</color> via <color=#9B9B9BFF>gril</color>.<color=#1EFF00FF>loanshark</color> MIDSEC<color=#3F3F3FFF>:::</color>
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color><color=#1EFF00FF>I just won <color=#CACACAFF>20<color=#1EFF00FF>M</color></color><color=#9B9B9BFF>GC</color> playing <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color> !!!</color><color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color></color>
+
+		=== F.I.R.A Search Engine ===
+
+
+		 Generic Options:
+	<color=#FF00ECFF>action</color>:		 Use manage to set object properties, or index to trigger indexing
+	<color=#FF00ECFF>type</color>:		 Type of target object. You likely want 'script'
+	<color=#FF00ECFF>name</color>:		 Object Name
+
+		 Script Administration Options:
+	<color=#FF00ECFF>description</color>:	 Description of the script as displayed in search engine
+	<color=#FF00ECFF>tags</color>:		 Tags describing your script, for scoring purposes
+
+Example usage: 
+<color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color> { <color=#00FFFFFF>action</color>:<color=#FF00ECFF> "manage"</color>, <color=#00FFFFFF>type</color>:<color=#FF00ECFF> "script"</color>, <color=#00FFFFFF>name</color>:<color=#FF00ECFF> "<color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color>"</color>, <color=#00FFFFFF>description</color>:<color=#FF00ECFF> "Cool Search Engine !"</color>, tags: [ "search", "engine" ] }
+
+Note: Usage of this script is obviously restrictricted to managing your own objects.
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#9B9B9BFF>a</color>.<color=#1EFF00FF>highsec_can_steal_your_loc_from_glocks_if_ur_t2</color> is <color=#FFFFFFFF>FULLSEC</color> and <color=#FFFFFFFF>PUBLIC</color> (via <color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>eck</color>)<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> {  }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[3]	<color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color>
+		Cool Search Engine !
+<color=#1EFF00FF>FULLSEC</color>	[2]	<color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color>
+		T1 NPC Harvester
+<color=#1EFF00FF>FULLSEC</color>	[2]	<color=#9B9B9BFF>vdd</color>.<color=#1EFF00FF>alice</color>
+		Advanced location dump with details on targets.
+<color=#1EFF00FF>FULLSEC</color>	[2]	<color=#9B9B9BFF>forum</color>.<color=#1EFF00FF>forums</color>
+		HackMUD's premiere ingame forum boards!
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color>
+		Star favourite scripts to boost their ranking
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>eleven</color>.<color=#1EFF00FF>chatter</color>
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>zurich</color>.<color=#1EFF00FF>help</color>
+		Zurich Vault Bank
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+		Manage your scripts listing in the search engine
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>at</color>
+		Chat, Advertise, Make <color=#CACACAFF></color><color=#9B9B9BFF>GC</color>
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>sy</color>.<color=#1EFF00FF>co</color>
+		A forum to post whatever you want!
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>lore</color>.<color=#1EFF00FF>qr</color>
+		A paid qr decoder
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>apps</color>.<color=#1EFF00FF>probe</color>
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>pwnhub</color>.<color=#1EFF00FF>table</color>
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>apps</color>.<color=#1EFF00FF>chat</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>dtr</color>.<color=#1EFF00FF>check_for_breaches</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>how</color>.<color=#1EFF00FF>sort</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>fbi</color>.<color=#1EFF00FF>member_access</color>
+
+
+2503 results in total.
+109 results updated and 3 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#00FFFFFF>Donate <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> to <color=#9B9B9BFF>@</color><color=#F3F998FF>kenji</color> with <color=#9B9B9BFF>kenji</color>.<color=#1EFF00FF>donate</color>!</color>
+ Earn <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> with <color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>at</color>!<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#9B9B9BFF>kenji</color>.<color=#1EFF00FF>donate</color> is for <color=#FF8000FF>DONATION</color> and <color=#FFFFFFFF>PUBLIC</color> (via <color=#9B9B9BFF>ke</color>.<color=#1EFF00FF>nji</color>)<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#00FFFFFF>Give <color=#9B9B9BFF>@</color><color=#F3F998FF>kenji</color> your loc with <color=#9B9B9BFF>kenji</color>.<color=#1EFF00FF>locdb</color>!</color>
+ Earn <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> with <color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>at</color>!<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#F3F998FF>kenji</color> <color=#3F3F3FFF>:::</color><color=#9B9B9BFF>kenji</color>.<color=#1EFF00FF>locdb</color> is for <color=#FF0000FF>STORAGE</color> and <color=#FFFFFFFF>PUBLIC</color> (via <color=#9B9B9BFF>ke</color>.<color=#1EFF00FF>nji</color>)<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2131</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>l0ud4nd0bn0xiu5</color> <color=#3F3F3FFF>:::</color>naaaa nanananananana nanaaanaaanaananaaaaaa<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"GC"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>at</color>
+		Chat, Advertise, Make <color=#CACACAFF></color><color=#9B9B9BFF>GC</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>dori</color>.<color=#1EFF00FF>gcrack</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>orbital_inc</color>.<color=#1EFF00FF>orb_request_gc</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>marknstein</color>.<color=#1EFF00FF>donate100gc</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>plunder</color>.<color=#1EFF00FF>gc</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>worrom</color>.<color=#1EFF00FF>brute_t1_5kgc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>__</color>.<color=#1EFF00FF>gc1</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>accnt</color>.<color=#1EFF00FF>xfer_gc_to_balance</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>chickenofdoom</color>.<color=#1EFF00FF>gc_cache</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>divineomega</color>.<color=#1EFF00FF>auto_gc_harvest</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>aria</color>.<color=#1EFF00FF>giveme1gc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>alrianne</color>.<color=#1EFF00FF>freegc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>blackstar</color>.<color=#1EFF00FF>gc_days</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>keep</color>.<color=#1EFF00FF>gc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>vaelek</color>.<color=#1EFF00FF>sendgc</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>kz73</color>.<color=#1EFF00FF>xfer_all_gc_from</color>
+
+
+36 results in total.
+141 results updated and 9 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#9B9B9BFF>2132</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color><color=#1EFF00FF>I just won <color=#CACACAFF>40<color=#1EFF00FF>M</color></color><color=#9B9B9BFF>GC</color> playing <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color> !!!</color><color=#3F3F3FFF>:::</color>
+
+zurich zuric
+zurich zuric
+zurich zuric
+zurich zuric
+zurich zuric
+zurich zuric
+zurich zuric
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+account deposit faq help stats withdraw cashdump
+<color=#9B9B9BFF>2132</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color>
+
+<color=#1EFF00FF> $ Double your <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> $</color><color=#00FFFFFF>       .----------------!!!!!!_-----_______</color>
+<color=#00FFFFFF>                         /''''''''''(______O] ----------____  |______/]_</color>
+<color=#00FFFFFF>      __...---^^^^^|_ --''   # FULLSEC - INSTANT PAYOUTS    ___________@</color>
+<color=#00FFFFFF> |'''                   ._   _______________=---------^^^^^^</color>
+<color=#00FFFFFF> |</color> <color=#FF00ECFF>+bonus system</color> <color=#00FFFFFF> ..--''|   l L |_l   |</color>
+<color=#00FFFFFF> |          ..--''      .  /-___; |   |</color>  <color=#1EFF00FF>Round</color> <color=#1EFF00FF>Jackpot: </color><color=#CACACAFF>719<color=#1EFF00FF>M</color>263<color=#00FFFFFF>K</color>731</color><color=#9B9B9BFF>GC</color>
+<color=#00FFFFFF> |    ..--''           /  ,       '.  '.</color>      
+<color=#00FFFFFF> |--''                /  /         |   |</color>  <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color><color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>zurich</color>.<color=#1EFF00FF>deposit</color> { <color=#00FFFFFF>usr</color>:<color=#FF00ECFF>"n_v83r"</color>, <color=#00FFFFFF>pwd</color>:<color=#FF00ECFF>"~Jaike51082"</color>, <color=#00FFFFFF>amt</color>:<color=#FF00ECFF>"300KGC"</color> }</color>
+<color=#9B9B9BFF>2133</color> <color=#00FFFFFF>0000</color> <color=#1EFF00FF>frosq</color> <color=#3F3F3FFF>:::</color>user joined channel<color=#3F3F3FFF>:::</color>
+
+
+<color=#B2934AFF>Escrow Auth Generated</color>
+
+Running this script costs <color=#CACACAFF>300<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color> each use. Confirm with <color=#9B9B9BFF>escrow</color>.<color=#1EFF00FF>confirm</color> { <color=#00FFFFFF>i</color>:<color=#FF00ECFF>"m4y3u5"</color> }
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>escrow</color>.<color=#1EFF00FF>confirm</color> { <color=#00FFFFFF>i</color>:<color=#FF00ECFF>"m4y3u5"</color> ,<color=#00FFFFFF>confirm</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#1EFF00FF>Success</color>
+Escrow confirmed. You may now use <color=#9B9B9BFF>zurich</color>.<color=#1EFF00FF>deposit</color>. You will need to reconfirm in 30 days or if the cost changes
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>zurich</color>.<color=#1EFF00FF>deposit</color> { <color=#00FFFFFF>usr</color>:<color=#FF00ECFF>"n_v83r"</color>, <color=#00FFFFFF>pwd</color>:<color=#FF00ECFF>"~Jaike51082"</color>, <color=#00FFFFFF>amt</color>:<color=#FF00ECFF>"300KGC"</color> }</color>
+
+<color=#B2934AFF>Deposit Complete</color>
+<color=#B2934AFF>New Balance: </color><color=#CACACAFF>1<color=#1EFF00FF>M</color>42<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color> 
+
+<color=#FF0000FF>Transferred</color> <color=#CACACAFF>300<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color> to <color=#9B9B9BFF>trust</color>
+
+<color=#9B9B9BFF>2134</color> <color=#FF00ECFF>0000</color> <color=#1EFF00FF>gril</color> <color=#3F3F3FFF>:::</color>I just paid out a <color=#9B9B9BFF>gril</color>.<color=#1EFF00FF>keno</color> or a <color=#9B9B9BFF>dtr</color>.<color=#1EFF00FF>haunty_mall</color> via <color=#9B9B9BFF>gril</color>.<color=#1EFF00FF>loanshark</color> MIDSEC<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2134</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>*ahem*<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2134</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>IT IS ONLY A MATTER OF TIME.<color=#3F3F3FFF>:::</color>
+
+sell browse buy stats
+browse buy
+<color=#FFFFFFFF>>><color=#9B9B9BFF>market</color>.<color=#1EFF00FF>browse</color> {<color=#00FFFFFF>tier</color>:<color=#FF00ECFF>1</color>}</color>
+<color=#9B9B9BFF>2134</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>OPEN YOUR TERMINALS AND EMBRACE THE BEYOND.<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>7gfuh2</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>8lzvq3</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>a2xe63</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color>900</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>z3wb2s</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color>900</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>30e8ck</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color>900</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>b5mr5u</color> <color=#CACACAFF>1<color=#00FFFFFF>K</color>900</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>ay169h</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>1vhffc</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>04msdx</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>5d20w9</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>audlvx</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>dmvlqe</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>wag9km</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>qk5pje</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>ojif88</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>2gis04</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>57xg28</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>0nwkq0</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>7r5kbo</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>t2ptml</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>xxmc60</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>8k8jl5</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>h9xc1q</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>6nr8z5</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>65ig0w</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>100</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>6ej8qq</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>250</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>wq4ck3</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>250</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>bl2y9x</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>250</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>5gxqlr</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>400</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>public_script_v1</color>
+<color=#9B9B9BFF>m6eqxb</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>400</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>kriqfz</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>500</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>2t3t7v</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>500</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>public_script_v1</color>
+<color=#9B9B9BFF>z2m8kl</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>500</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>9by9p9</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>625</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>qvjd9r</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>625</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>ap8hgs</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>953</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>8dojkx</color> <color=#CACACAFF>2<color=#00FFFFFF>K</color>953</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>w54qly</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>qddki7</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>noipn6</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>5jljhi</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>i9livs</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>c003</color>
+<color=#9B9B9BFF>2wgkwi</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>ybvdzo</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>o2b1ng</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>3b3p1h</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>gmcq1n</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color>83</color><color=#9B9B9BFF>GC</color>   <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>bsu4g4</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color>500</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>7fzsfh</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color>500</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>w4rn_message</color>
+<color=#9B9B9BFF>z40mfi</color> <color=#CACACAFF>3<color=#00FFFFFF>K</color>920</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>script_slot_v1</color>
+<color=#9B9B9BFF>pnbnsy</color> <color=#CACACAFF>4<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>zwxtww</color> <color=#CACACAFF>4<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>o3y425</color> <color=#CACACAFF>4<color=#00FFFFFF>K</color>900</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>v4uiw0</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_21</color>
+<color=#9B9B9BFF>3eosrh</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>i2qp4g</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>t3ypyh</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>y06bah</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>9na5ic</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>public_script_v1</color>
+<color=#9B9B9BFF>v4cr7c</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>script_slot_v1</color>
+<color=#9B9B9BFF>2ptvbb</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>public_script_v1</color>
+<color=#9B9B9BFF>3r95vd</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>wyw8se</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>kskhqu</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>ez_35</color>
+<color=#9B9B9BFF>vdb9d9</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>qbepaz</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>efsvec</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>m3dbx5</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>xn8alf</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>tr9wut</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>script_slot_v1</color>
+<color=#9B9B9BFF>uua39p</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color>760</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>w4rn</color>
+<color=#9B9B9BFF>zmawj0</color> <color=#CACACAFF>5<color=#00FFFFFF>K</color>906</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>ez_40</color>
+<color=#9B9B9BFF>sf8vle</color> <color=#CACACAFF>6<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>c003</color>
+<color=#9B9B9BFF>n2f5vz</color> <color=#CACACAFF>6<color=#00FFFFFF>K</color>167</color><color=#9B9B9BFF>GC</color>  <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>5u2c16</color> <color=#CACACAFF>6<color=#00FFFFFF>K</color>300</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>c002</color>
+<color=#9B9B9BFF>hzwslf</color> <color=#CACACAFF>6<color=#00FFFFFF>K</color>400</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>c002</color>
+<color=#9B9B9BFF>w51hwp</color> <color=#CACACAFF>7<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>4mdtbw</color> <color=#CACACAFF>7<color=#00FFFFFF>K</color>200</color><color=#9B9B9BFF>GC</color>  <color=#FFFFFFFF>w4rn</color>
+<color=#9B9B9BFF>gr8ggm</color> <color=#CACACAFF>8<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>c002</color>
+<color=#9B9B9BFF>sxb93m</color> <color=#CACACAFF>8<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>bgwzpj</color> <color=#CACACAFF>8<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#CACACAFF>script_slot_v1</color>
+<color=#9B9B9BFF>zqj7r6</color> <color=#CACACAFF>8<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>log_writer_v1</color>
+<color=#9B9B9BFF>36lxrn</color> <color=#CACACAFF>9<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>     <color=#FFFFFFFF>w4rn</color>
+<color=#9B9B9BFF>f4p016</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>log_writer_v1</color>
+<color=#9B9B9BFF>jmf6yy</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>4klbg9</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>0t3pnw</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>5z57mo</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>l3vxgf</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#FFFFFFFF>log_writer_v1</color>
+<color=#9B9B9BFF>edsqf1</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>s60bl7</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#FFFFFFFF>log_writer_v1</color>
+<color=#9B9B9BFF>1urah4</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>p8myg5</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#FFFFFFFF>w4rn</color>
+<color=#9B9B9BFF>fctoh6</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>gf5dpb</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>script_slot_v1</color>
+<color=#9B9B9BFF>sui2as</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>c001</color>
+<color=#9B9B9BFF>xhhib8</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>w4rn_message</color>
+<color=#9B9B9BFF>usd4me</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>expose_access_log_v1</color>
+<color=#9B9B9BFF>v4sbhm</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#CACACAFF>public_script_v1</color>
+<color=#9B9B9BFF>h1zraa</color> <color=#CACACAFF>10<color=#00FFFFFF>K</color></color><color=#9B9B9BFF>GC</color>    <color=#FFFFFFFF>expose_access_log_v1</color>
+
+<color=#9B9B9BFF>2134</color> <color=#FF00ECFF>0000</color> <color=#FF96E0FF>system_admin</color> <color=#3F3F3FFF>:::</color><color=#1EFF00FF>I just won <color=#CACACAFF>2<color=#1EFF00FF>M</color></color><color=#9B9B9BFF>GC</color> playing <color=#9B9B9BFF>system_admin</color>.<color=#1EFF00FF>noscope360</color> !!!</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>sudo kill -9 -1<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>YOUR BELIEF WILL BE REWARDED IN THE HEREAFTER.<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>YOUR PROCESSOR WILL KNOW PEACE AT LAST<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>thanks for listening.<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"GC"</color> }</color>
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>i'm not a natural politician.<color=#3F3F3FFF>:::</color>
+
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[1]	<color=#9B9B9BFF>ch</color>.<color=#1EFF00FF>at</color>
+		Chat, Advertise, Make <color=#CACACAFF></color><color=#9B9B9BFF>GC</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>dori</color>.<color=#1EFF00FF>gcrack</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>orbital_inc</color>.<color=#1EFF00FF>orb_request_gc</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>marknstein</color>.<color=#1EFF00FF>donate100gc</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>plunder</color>.<color=#1EFF00FF>gc</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>worrom</color>.<color=#1EFF00FF>brute_t1_5kgc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>__</color>.<color=#1EFF00FF>gc1</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>accnt</color>.<color=#1EFF00FF>xfer_gc_to_balance</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>chickenofdoom</color>.<color=#1EFF00FF>gc_cache</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>divineomega</color>.<color=#1EFF00FF>auto_gc_harvest</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>aria</color>.<color=#1EFF00FF>giveme1gc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>alrianne</color>.<color=#1EFF00FF>freegc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>blackstar</color>.<color=#1EFF00FF>gc_days</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>keep</color>.<color=#1EFF00FF>gc</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>vaelek</color>.<color=#1EFF00FF>sendgc</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>kz73</color>.<color=#1EFF00FF>xfer_all_gc_from</color>
+
+
+36 results in total.
+111 results updated and 7 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#9B9B9BFF>2135</color> <color=#FF00ECFF>0000</color> <color=#CACACAFF>dash_9_today</color> <color=#3F3F3FFF>:::</color>but i believe in the message.<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>leave</color> { <color=#00FFFFFF>channel</color>:<color=#FF00ECFF>"0000"</color> }</color>
+<color=#1EFF00FF>Success</color>
+
+<color=#9B9B9BFF>2136</color> <color=#00FFFFFF>0000</color> <color=#FFF404FF>n_v83r</color> <color=#3F3F3FFF>:::</color>user left channel<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"mine"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>lafleur</color>.<color=#1EFF00FF>minerva</color>
+<color=#FF8000FF>HIGHSEC</color>	[0]	<color=#9B9B9BFF>orbital_inc</color>.<color=#1EFF00FF>orb_miner</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>scripter</color>.<color=#1EFF00FF>t2_miner</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>
+
+
+156 results updated and 7 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"t1"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[2]	<color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color>
+		T1 NPC Harvester
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>dorri</color>.<color=#1EFF00FF>crackt1</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>cyberlink916</color>.<color=#1EFF00FF>t1</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>tables</color>.<color=#1EFF00FF>t1_crack</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>lambda</color>.<color=#1EFF00FF>t1_solver</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>zedsdead</color>.<color=#1EFF00FF>t1cracker</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>derelic</color>.<color=#1EFF00FF>t1_harvest</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>mit4cian</color>.<color=#1EFF00FF>t1crack</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>zedsdead</color>.<color=#1EFF00FF>t1_loc_finder</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>mancer</color>.<color=#1EFF00FF>crt1</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>bluffnix</color>.<color=#1EFF00FF>t1</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>math</color>.<color=#1EFF00FF>t1</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>make</color>.<color=#1EFF00FF>info_t1mzkj</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>newunit16</color>.<color=#1EFF00FF>testing</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>cowardlyturtle</color>.<color=#1EFF00FF>free_t1_cracker</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>sevensig</color>.<color=#1EFF00FF>t1_reset_info</color>
+
+
+214 results in total.
+154 results updated and 9 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>cyberlink916</color>.<color=#1EFF00FF>t1</color></color>
+
+Welcome To
+
+    ▄████████  ▄████████    ▄████████ ███    █▄     ▄████████    ▄████████ ███▄▄▄▄      ▄████████     ███     
+   ███    ███ ███    ███   ███    ███ ███    ███   ███    ███   ███    ███ ███▀▀▀██▄   ███    ███ ▀█████████▄ 
+   ███    █▀  ███    █▀    ███    ███ ███    ███   ███    █▀    ███    █▀  ███   ███   ███    █▀     ▀███▀▀██ 
+   ███        ███         ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄      ▄███▄▄▄     ███   ███  ▄███▄▄▄         ███   ▀ 
+ ▀███████████ ███        ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀     ███   ███ ▀▀███▀▀▀         ███     
+          ███ ███    █▄  ▀███████████ ███    ███   ███          ███        ███   ███   ███    █▄      ███     
+    ▄█    ███ ███    ███   ███    ███ ███    ███   ███          ███        ███   ███   ███    ███     ███     
+  ▄████████▀  ████████▀    ███    ███ ████████▀    ███          ███         ▀█   █▀    ██████████    ▄████▀   
+                           ███    ███                                                                         
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>cyberlink916</color>.<color=#1EFF00FF>t1</color>{}</color>
+
+Welcome To
+
+    ▄████████  ▄████████    ▄████████ ███    █▄     ▄████████    ▄████████ ███▄▄▄▄      ▄████████     ███     
+   ███    ███ ███    ███   ███    ███ ███    ███   ███    ███   ███    ███ ███▀▀▀██▄   ███    ███ ▀█████████▄ 
+   ███    █▀  ███    █▀    ███    ███ ███    ███   ███    █▀    ███    █▀  ███   ███   ███    █▀     ▀███▀▀██ 
+   ███        ███         ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄      ▄███▄▄▄     ███   ███  ▄███▄▄▄         ███   ▀ 
+ ▀███████████ ███        ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀     ███   ███ ▀▀███▀▀▀         ███     
+          ███ ███    █▄  ▀███████████ ███    ███   ███          ███        ███   ███   ███    █▄      ███     
+    ▄█    ███ ███    ███   ███    ███ ███    ███   ███          ███        ███   ███   ███    ███     ███     
+  ▄████████▀  ████████▀    ███    ███ ████████▀    ███          ███         ▀█   █▀    ██████████    ▄████▀   
+                           ███    ███                                                                         
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>cyberlink916</color>.<color=#1EFF00FF>t1</color>{<color=#00FFFFFF>search</color>:<color=#FF00ECFF>true</color>}</color>
+
+Welcome To
+
+    ▄████████  ▄████████    ▄████████ ███    █▄     ▄████████    ▄████████ ███▄▄▄▄      ▄████████     ███     
+   ███    ███ ███    ███   ███    ███ ███    ███   ███    ███   ███    ███ ███▀▀▀██▄   ███    ███ ▀█████████▄ 
+   ███    █▀  ███    █▀    ███    ███ ███    ███   ███    █▀    ███    █▀  ███   ███   ███    █▀     ▀███▀▀██ 
+   ███        ███         ▄███▄▄▄▄██▀ ███    ███  ▄███▄▄▄      ▄███▄▄▄     ███   ███  ▄███▄▄▄         ███   ▀ 
+ ▀███████████ ███        ▀▀███▀▀▀▀▀   ███    ███ ▀▀███▀▀▀     ▀▀███▀▀▀     ███   ███ ▀▀███▀▀▀         ███     
+          ███ ███    █▄  ▀███████████ ███    ███   ███          ███        ███   ███   ███    █▄      ███     
+    ▄█    ███ ███    ███   ███    ███ ███    ███   ███          ███        ███   ███   ███    ███     ███     
+  ▄████████▀  ████████▀    ███    ███ ████████▀    ███          ███         ▀█   █▀    ██████████    ▄████▀   
+                           ███    ███                                                                         
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>bluffnix</color>.<color=#1EFF00FF>t1</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> TypeError: Cannot read property 'target' of null
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>bluffnix</color>.<color=#1EFF00FF>t1</color>{}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> TypeError: Cannot read property 'call' of undefined
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>sevensig</color>.<color=#1EFF00FF>t1_reset_info</color></color>
+The server resets all T1s at 00:00UTC.
+
+ Current time is 2:38:45 
+
+You'll have to wait: 
+21 hours 22 minutes 15 seconds until server reset.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>zedsdead</color>.<color=#1EFF00FF>t1_loc_finder</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> TypeError: Cannot read property 't' of null
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"pub"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>harbor</color>.<color=#1EFF00FF>pub_r7fj9e</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>uknown_2qfr81</color>.<color=#1EFF00FF>pub_ycbda8</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>lunar_systems</color>.<color=#1EFF00FF>pub</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>positron</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>glitched</color>.<color=#1EFF00FF>public_dfja0c</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>harryhorss</color>.<color=#1EFF00FF>pub_info_31vkmq</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>cloudym</color>.<color=#1EFF00FF>public_z5hj3s</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>danile666</color>.<color=#1EFF00FF>public_yu36j3</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>unknown_j7rhkf</color>.<color=#1EFF00FF>pub_info_brq2hi</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>lockbox</color>.<color=#1EFF00FF>pubinfo_ydw0pp</color>
+
+
+226 results in total.
+110 results updated and 3 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>pubinfo</color></color>
+<color=#FF0000FF>Failure</color>
+888       8¦8 8888888888 Y88b   d88P 888             d8888 ©88b    888 8888888b.
+888   o   888 888         Y88b d88P  888            d88888 8888b   888 888  Y88b
+888  d8b  888 888          Y88o88P   888 ¢         d88P888 88888b  888 888    8©8
+888 d888b 888 8888888     ¡ Y888P    888          d88P 888 888Y88b 888 888    888
+888d88888b888 888            888     888         d88P  888 888 Y88b888 888    88¢
+88888P Y88888 888            888     888        d88P   888 888  Y88888 888    888
+8888P¥  Y8888 888            888     888       d8888888888 888   Y8888 888  .d88P
+888P     Y888 8888888888     888     88888888 d88P     888 888    Y888 8888888P
+
+
+
+¨elcome to Weyland Yutanihama's public information script. Please refrain from engaging in criminal activity.
+missing | error | <color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>info</color> |
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>pubinfo</color>{<color=#00FFFFFF>help</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#FF0000FF>Failure</color>
+888       8¦8 8888888888 Y88b   d88P 888             d8888 ©88b    888 8888888b.
+888   o   888 888         Y88b d88P  888            d88888 8888b   888 888  Y88b
+888  d8b  888 888          Y88o88P   888 ¢         d88P888 88888b  888 888    8©8
+888 d888b 888 8888888     ¡ Y888P    888          d88P 888 888Y88b 888 888    888
+888d88888b888 888            888     888         d88P  888 888 Y88b888 888    88¢
+88888P Y88888 888            888     888        d88P   888 888  Y88888 888    888
+8888P¥  Y8888 888            888     888       d8888888888 888   Y8888 888  .d88P
+888P     Y888 8888888888     888     88888888 d88P     888 888    Y888 8888888P
+
+
+
+¨elcome to Weyland Yutanihama's public information script. Please refrain from engaging in criminal activity.
+missing | error | <color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>info</color> |
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>info</color> </color>
+▄██████████████▄▐█▄▄▄▄█▌
+██████▌▄▌▄▐▐▌███▌▀▀██▀▀
+████▄█▌▄▌▄▐▐▌▀███▄▄█▌
+▄▄▄▄▄██████████████▀
+
+Thanks for your loc.
+
+Im not going to use it so you can consider this a lesson. :)
+
+Allways check scripts before you run them.
+
+I will also give you a chance to get some of your <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> back if you can answer this riddle.
+
+
+I turn polar bears white and I will make you cry.
+I make guys have to pee and girls comb their hair.
+I make celebrities look stupid and normal people look like celebrities.
+I turn pancakes brown and make your champagne bubble.
+If you squeeze me, I'll pop. If you look at me, you'll pop.
+Can you answer this riddle?
+
+
+<color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color> me the answer and ill give you some of your <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> back within 24 H
+
+ I hope you learned something :)
+
+░░▄▀░░░░░░░░░░░░░░░▀▀▄▄░░░░░
+░░▄▀░░░░░░░░░░░░░░░░░░░░▀▄░░░
+░▄▀░░░░░░░░░░░░░░░░░░░░░░░█░░
+░█░░░░░░░░░░░░░░░░░░░░░░░░░█░
+▐░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+█░░░░▀▀▄▄▄▄░░░▄▌░░░░░░░░░░░░▐
+▌░░░░░▌░░▀▀█▀▀░░░▄▄░░░░░░░▌░▐
+▌░░░░░░▀▀▀▀░░░░░░▌░▀██▄▄▄▀░░▐
+▌░░░░░░░░░░░░░░░░░▀▄▄▄▄▀░░░▄▌
+▐░░░░▐░░░░░░░░░░░░░░░░░░░░▄▀░
+░█░░░▌░░▌▀▀▀▄▄▄▄░░░░░░░░░▄▀░░
+░░█░░▀░░░░░░░░░░▀▌░░▌░░░█░░░░
+░░░▀▄░░░░░░░░░░░░░▄▀░░▄▀░░░░░
+░░░░░▀▄▄▄░░░░░░░░░▄▄▀▀░░░░░░░
+░░░░░░░░▐▌▀▀▀▀▀▀▀▀░░░░░░░░░░░
+░░░░░░░░█░░░░░░░░░░░░░░░░░░░░
+░░╔═╗╔═╗╔═╗░░░░░║░║╔═╗║░║░░░░
+░░╠═╣╠╦╝╠╣░░░░░░╚╦╝║░║║░║░░░░
+░░║░║║╚═╚═╝░░░░░░║░╚═╝╚═╝░░░░
+║╔═░╦░╦═╗╦═╗╦╔╗║╔═╗░░╔╦╗╔═╗╔╗
+╠╩╗░║░║░║║░║║║║║║═╗░░║║║╠╣░╔╝
+║░╚░╩░╩═╝╩═╝╩║╚╝╚═╝░░║║║╚═╝▄░
+
+
+<color=#9B9B9BFF>sys</color>.<color=#1EFF00FF>loc</color> called from <color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>info</color>
+
+<color=#9B9B9BFF>2140</color> <color=#00FFFFFF>to</color> <color=#F3F998FF>weylend</color> <color=#3F3F3FFF>:::</color><color=#9B9B9BFF>n_v83r</color>.<color=#1EFF00FF>pubinfo_s0htfg</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+lock lockbox loco
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox
+lock lockbox
+<color=#FFFFFFFF>>><color=#9B9B9BFF>lock</color>.<color=#1EFF00FF>reset</color> </color>
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>n_v83r</color>.<color=#1EFF00FF>pubinfo_s0htfg</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> hardline required - activate with <color=#9B9B9BFF>kernel</color>.<color=#1EFF00FF>hardline</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>pubinfo</color>{<color=#00FFFFFF>help</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#FF0000FF>Failure</color>
+888       8¦8 8888888888 Y88b   d88P 888             d8888 ©88b    888 8888888b.
+888   o   888 888         Y88b d88P  888            d88888 8888b   888 888  Y88b
+888  d8b  888 888          Y88o88P   888 ¢         d88P888 88888b  888 888    8©8
+888 d888b 888 8888888     ¡ Y888P    888          d88P 888 888Y88b 888 888    888
+888d88888b888 888            888     888         d88P  888 888 Y88b888 888    88¢
+88888P Y88888 888            888     888        d88P   888 888  Y88888 888    888
+8888P¥  Y8888 888            888     888       d8888888888 888   Y8888 888  .d88P
+888P     Y888 8888888888     888     88888888 d88P     888 888    Y888 8888888P
+
+
+
+¨elcome to Weyland Yutanihama's public information script. Please refrain from engaging in criminal activity.
+missing | error | <color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>info</color> |
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"pub"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>harbor</color>.<color=#1EFF00FF>pub_r7fj9e</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>uknown_2qfr81</color>.<color=#1EFF00FF>pub_ycbda8</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>lunar_systems</color>.<color=#1EFF00FF>pub</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>weylend</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>positron</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>glitched</color>.<color=#1EFF00FF>public_dfja0c</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>harryhorss</color>.<color=#1EFF00FF>pub_info_31vkmq</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>cloudym</color>.<color=#1EFF00FF>public_z5hj3s</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>danile666</color>.<color=#1EFF00FF>public_yu36j3</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>unknown_j7rhkf</color>.<color=#1EFF00FF>pub_info_brq2hi</color>
+<color=#FF8000FF>LOWSEC</color>	[0]	<color=#9B9B9BFF>lockbox</color>.<color=#1EFF00FF>pubinfo_ydw0pp</color>
+
+
+226 results in total.
+86 results updated and 3 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color></color>
+
+/$$$$$$$   /$$$$$$  /$$$$$$$$  /$$$$$$   /$$$$$$ 
+| $$__  $$ /$$__  $$|_____ $$  /$$__  $$ /$$__  $$
+| $$  \ $$| $$  \ $$     /$$/ | $$  \ $$| $$  \__/
+| $$$$$$$/| $$  | $$    /$$/  | $$$$$$$$|  $$$$$$ 
+| $$__  $$| $$  | $$   /$$/   | $$__  $$ \____  $$
+| $$  \ $$| $$  | $$  /$$/    | $$  | $$ /$$  \ $$
+| $$  | $$|  $$$$$$/ /$$$$$$$$| $$  | $$|  $$$$$$/
+|__/  |__/ \______/ |________/|__/  |__/ \______/ 
+
+Welcome to ROZAS public information script. Please refrain from engaging in criminal activity
+updates | about |
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>cmd</color>:<color=#FF00ECFF>"about"</color>}</color>
+Please specify a command with <color=#00FFFFFF>open</color>:<color=#FF00ECFF>"Ècommand nameÉ"</color>-- access directory with ©<color=#00FFFFFF>pen</color>:<color=#FF00ECFF>"employees"</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>true</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>p</color>:<color=#FF00ECFF>true</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>p</color>:<color=#FF00ECFF>true</color>"}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your command line has an error in it:
+<color=#9B9B9BFF>Error parsing boolean value. Line 1, position 28.</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>p</color>:<color=#FF00ECFF>"true"</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"true"</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"true"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>true</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,password:fasle}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your command line has an error in it:
+<color=#9B9B9BFF>Error parsing boolean value. Line 1, position 34.</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"forse"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"ROZAS"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rozas"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"about"</color>}</color>
+Welcome to ROZAS Energy for the social age.
+We are calling this strategy thenumberone and we will continue to strive to deliver on this promise.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"thenumberone"</color>}</color>
+Authenticated. Please specify a project to get a member list.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"thenumberone"</color>,<color=#00FFFFFF>proj</color>:<color=#FF00ECFF>1</color>}</color>
+Authenticated. Please specify a project to get a member list.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"thenumberone"</color>,<color=#00FFFFFF>project</color>:<color=#FF00ECFF>1</color>}</color>
+<color=#9B9B9BFF>uknown_l5ze16</color>.<color=#1EFF00FF>info_39v1qv</color>
+<color=#9B9B9BFF>uknown_fqv1g3</color>.<color=#1EFF00FF>external_1z6dt5</color>
+de¥<color=#9B9B9BFF>elict_xgjl30</color>.<color=#1EFF00FF>pubinfo_a0ifc6</color>
+<color=#9B9B9BFF>unidentified_l8hlht</color>.<color=#1EFF00FF>info_cenu</color>£o
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>uknown_fqv1g3</color>.<color=#1EFF00FF>external_1z6dt5</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>uknown_fqv1g3</color>.<color=#1EFF00FF>external_1z6dt5</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"employees"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"thenumberone"</color>,<color=#00FFFFFF>project</color>:<color=#FF00ECFF>2</color>}</color>
+<color=#9B9B9BFF>uknown_l5ze16</color>.<color=#1EFF00FF>info_39v1qv</color>
+<color=#9B9B9BFF>uknown_fqv1g3</color>.<color=#1EFF00FF>external_1z6dt5</color>
+de¥<color=#9B9B9BFF>elict_xgjl30</color>.<color=#1EFF00FF>pubinfo_a0ifc6</color>
+<color=#9B9B9BFF>unidentified_l8hlht</color>.<color=#1EFF00FF>info_cenu</color>£o
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>uknown_l5ze16</color>.<color=#1EFF00FF>info_39v1qv</color> { <color=#00FFFFFF>l</color>:<color=#FF00ECFF>#s.<color=#9B9B9BFF>npc</color>.<color=#1EFF00FF>loc</color></color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>npc</color>.<color=#1EFF00FF>loc</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>rozas</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>"updates"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"thenumberone"</color>,<color=#00FFFFFF>project</color>:<color=#FF00ECFF>2</color>}</color>
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>149</color>
+nderek_zoo of project Free_BFG has come clean about the cancellation of her product.  'We just can't justify the cost.' she said.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>336</color>
+CORE is pleased to announce that the initial launch of the 101010 software is a wild success¢
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>331</color>
+chad_bose of project dev_nul has come clean¨about the cancellation of his product.  'We just can't justify the cost.' he said.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>102</color>
+New company policy has been established as of Q2. Manditory demonstration ¤f core competency with p33ps is now required.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>264</color>
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference ¦oom reservation tool has been completed.  Look for e)(ecution0r in your mailbox.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>250</color>
+Fªr our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>184</color>
+Profits are up 17% in the Benelux region ©or Q4
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>2</color>
+nderek_zoo of project Free_BFG has come clean about the cancellation of her product.  'We just can't justify the cost.' she said.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>258</color>
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference room §eservation tool has been completed.  Look for <color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color> in your mailbox.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>34</color>
+Work continues on giant_spidr, hope is held out that it mig¥t be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>271</color>
+XT-5 Gardening Bot for sale cheap.  Works fine, not eligible for rOS 1£ update. Contact Mitch @ HR.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>132</color>
+Work continues on H0meEntert4inment, hope is held out that it might be con©ected to a cure for Welsh Measles.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"gold"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>gold</color>.<color=#1EFF00FF>force</color>
+<color=#FF8000FF>MIDSEC</color>	[0]	<color=#9B9B9BFF>iidxgold</color>.<color=#1EFF00FF>savings</color>
+
+
+113 results updated and 2 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>gold</color>.<color=#1EFF00FF>force</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> TypeError: Cannot read property 'target' of null
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>search</color> { <color=#00FFFFFF>terms</color>:<color=#FF00ECFF>"npc"</color> }</color>
+
+		=== F.I.R.A Search Engine ===
+
+<color=#1EFF00FF>FULLSEC</color>	[2]	<color=#9B9B9BFF>tools</color>.<color=#1EFF00FF>harvest</color>
+		T1 NPC Harvester
+<color=#FF8000FF>HIGHSEC</color>	[0]	<color=#9B9B9BFF>yeast_plume</color>.<color=#1EFF00FF>t2_scrape_npcs</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>shadow</color>.<color=#1EFF00FF>npc_find</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>a00</color>.<color=#1EFF00FF>t1_npcs</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>d00nut</color>.<color=#1EFF00FF>npcs</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>happybill</color>.<color=#1EFF00FF>npcs</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>d0s</color>.<color=#1EFF00FF>list_npcs</color>
+<color=#1EFF00FF>FULLSEC</color>	[0]	<color=#9B9B9BFF>foxhound</color>.<color=#1EFF00FF>get_t2_npc</color>
+
+
+77 results in total.
+139 results updated and 2 results added. Thanks ! 
+
+NEW! You can add script descriptions and search tags with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>admin</color>
+NEW! You can star favorite scripts with <color=#9B9B9BFF>fira</color>.<color=#1EFF00FF>star</color> to help boost their ranking !
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>a00</color>.<color=#1EFF00FF>t1_npcs</color></color>
+ACCESS DENIED
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>a00</color>.<color=#1EFF00FF>t1_npcs</color>{}</color>
+ACCESS DENIED
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>a00</color>.<color=#1EFF00FF>t1_npcs</color>{<color=#00FFFFFF>ez_35</color>:<color=#FF00ECFF>true</color>}</color>
+ACCESS DENIED
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>a00</color>.<color=#1EFF00FF>t1_npcs</color>{<color=#00FFFFFF>open</color>:<color=#FF00ECFF>true</color>}</color>
+ACCESS DENIED
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>d0s</color>.<color=#1EFF00FF>list_npcs</color> { <color=#00FFFFFF>npc</color>:<color=#FF00ECFF>true</color> }</color>
+<color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>archaic</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>arino</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>blackstar</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>bluebun</color>.<color=#1EFF00FF>external</color>
+<color=#9B9B9BFF>bunnybat_hut</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>context</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>core</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>cyberdine</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>empty_nest</color>.<color=#1EFF00FF>out</color>
+<color=#9B9B9BFF>futuretech</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>halperyon</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>kill_9_1</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>kill_bio</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>legion_bible</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>legion_intl</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>light</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>lowell_extermination</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>marco_polo</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>merrymoor_pharma</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>nation_of_wales</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>nuutec</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>protein_prevention</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>ros13</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>ros_13_update_checker</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>setec_gas</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>sn_w</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>soylentbean</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>tandoori</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>the_holy_checksum</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>turing_testing</color>.<color=#1EFF00FF>out</color>
+<color=#9B9B9BFF>tyrell</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#9B9B9BFF>vacuum_rescue</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>welsh_measles_info</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>weyland</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>world_pop</color>.<color=#1EFF00FF>p</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color></color>
+                          <color=#8C0069FF>¢</color>             <color=#23381BFF>§</color>                                                                         
+        ##              <color=#A88600FF>¤</color>            <color=#FFFFFFFF>£</color>  ###                           ##<color=#B3FF9BFF>¨</color>## /##               /                   
+     /####                               ###     <color=#7AB2F4FF>©</color>       <color=#FBC803FF>¤</color>         ######  / ##             #/                    
+    /  ###                                ##                      /#   /  /  ##             ##                    
+       /##                                ##                     /    /  /   ##             ##                    
+      /  ##                               ##                         /  /    /              ##           <color=#00FFFFFF>ª</color>        
+      /  ##     ### /### /###     /###    ##      /###              ## ##   /       /###    ## /###     /<color=#8E3434FF>¡</color>##      
+     /    ## <color=#299400FF>§</color>   ##/ ###/ /##  / / ###  / ##     /  ###  /          ## ##  /       / ###  / ##/ ###  / / ###  /   
+     /    ##      ## <color=#FBC803FF>¨</color>###/ ###/ /   ###/  ##    /    ###/           ## ###/       /   ###/  ##   ###/ /   ###/    
+    /      ##     ##   ##   ## ##    ##   ##   ##     ##            ## ##  ###   ##    ##   ##    ## ##    ##  <color=#A88600FF>£</color>  
+    /<color=#E6C4FFFF>¤</color>#######     ##   ##   ## ##    ##   ##   ##     ##            ## ##    ##  ##    ##   ##    ## ##    ##     
+   /        ##    ##   ##   ## ##    ##   ##   ##     ##            #  ##    ##  ##    ##   ##    ## ##    ##     
+   #        ##    ##   ##<color=#880024FF>¢</color>  ## ##    ##   ##   ##     ##               /    <color=#0070DDFF>¥</color>##  ##    ##   ##    ## ##    ##     
+  /<color=#FF0070FF>¡</color>###      ##   ##   ##   ## ##<color=#385A6CFF>§</color>   /#   ##   ##     ##   #       /##/      ### ##    ##   ##    /# ##    ##  #  
+ /   ####    ## / ###  ###  ### ####/ ##  ### / ########  ###     /  ####    ##   ######     ##<color=#B035EEFF>¤</color>#/    ######  ### 
+/     ##      #/   ###  ###  ### ###   ##  ##/   <color=#A88600FF>ª</color>### ###  #     /    ##     #     ####       ###      ####    #  
+#                                    <color=#E6C4FFFF>¦</color>                 ###       #                               <color=#299400FF>¢</color>                
+ ##    <color=#000000FF>¦</color>                                         ####   ###       ##                   <color=#FFFFFFFF>§</color>                          
+           <color=#CACACAFF>§</color>                                   /######  /#                                                        
+                                              /     ###/                      <color=#1EFF00FF>¡</color>               <color=#880024FF>¢</color>                   
+Welcome t<color=#0000FFFF>¥</color> Amal<color=#7AB2F4FF>¥</color>amated Robotics' public information script. Please refrain from engaging <color=#0073A6FF>¦</color>n criminal activity.
+happening | <color=#F3F998FF>§</color>oals | 
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{}</color>
+Please specify a command with pr<color=#495225FF>¢<color=#00FFFFFF></color>cess</color>:<color=#FF00ECFF>"Ècommand nameÉ"</color>
+Public commands are "goals" "happening" 
+-- access directory with <color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>true</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>true</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"Amalgamated"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"amalgamated"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"amalamated"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"Amalamated"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"goals"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"Amalamated"</color>}</color>
+Amalgamated Robotics: Designers of the world-leading rOS General-Purpo<color=#601C81FF>¢</color>e Robotics Operating System.  Building a Smarter T<color=#B3FF9BFF>©</color>morrow.
+We are calling this strategy plantowin and we will continue to strive to deliver on this promise.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"rOS"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"happening"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"Amalamated"</color>}</color>
+206<color=#7D0000FF>ª</color>AD D218
+REMINDER: All buildings will be evacuated and systems unresponsive on Dec 31 23:00 GMT for the rOS 13.0 rollover.  Do not plan on open connections for at least twenty minutes after <color=#FF8383FF>£</color>he update window.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>189</color>
+Feral bunnybat attacks have been reported in the west garages after nightfall.  Employees are encouraged to <color=#FFD863FF>§</color>tick to lighted ar<color=#0070DDFF>§</color>as and carry their employer-supplied mace.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>156</color>
+Profits are up 17% in the Benelux region for Q4
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>146</color>
+catness of project H0meEntert4inment has come clean about the cancellation of his product.  'We just can't justify the cost<color=#8C0069FF>£</color>' he said.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>72</color>
+q_bey of project Vy_for_russ has come clean about the canc<color=#FF0000FF>©</color>llation of her product.  'We just can't justify the cost.' she said.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>69</color>
+'We've got the bad guys on the run!' -- q_bey when being asked about new developme<color=#0073A6FF>¡</color>ts on 101010 progress.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>363</color>
+Profits are down 3% in the<color=#00FFFFFF>¤</color>United Polynesia region for Q4
+2<color=#FF6A98FF>¡</color><color=#FFFFFFFF>60</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>353</color>
+Anyone showing signs of Welsh Measles wll be escorted from t<color=#8FE6FFFF>ª</color>e building IMMEDIATLY!  Do not attempt to work through your symptoms. Your coworkers safety is your responsiblty.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>315</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of wea<color=#7AB2F4FF>§</color>, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>299</color>
+Register for the holiday party.  Th<color=#FBC803FF>ª</color>s year's celebration will be catered by Setec Gastronomy.
+2060AD<color=#676767FF>¢</color>D290
+Feral bunnybat attacks have been reported in the west garages after nightfall.  Employees are encouraged to stick to lighted areas and carry their empl<color=#0070DDFF>¦</color>yer-supplied mace.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>274</color>
+New company policy has been established as of Q2. M<color=#8E3434FF>©</color>nditory demonstration of core competency with empl_pages is now required. 
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>263</color>
+Feral bunnybat attacks have been reported in the west garages after night<color=#9B9B9BFF>¡</color>all.  Employees are encouraged to stick to lighted areas and carry their employer-<color=#F3F998FF>¦</color>upplied mace.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>248</color>
+Take your clone to work day is coming up on January 10th!  Remember all clones must<color=#8E3434FF>¢</color>be registered with security 24 hours before visiting.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>190</color>
+Work continues <color=#000000FF>¨</color>n dev_nul, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>100</color>
+Registe<color=#9B9B9BFF>¢</color> for the holiday party.  This year's celebration will be catered by Setec Gastronomy.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>30</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored,<color=#0C112BFF>©</color>May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>339</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  <color=#F3F998FF>¦</color>OR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>331</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetab<color=#FF8383FF>£</color>e Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>309</color>
+Profits are down<color=#299400FF>£</color>3% in the United Polynesia region for Q4
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>252</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable B<color=#385A6CFF>£</color> Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>252</color>
+Employees utilizing work resources poorly will be happy to know that the <color=#0C112BFF>¡</color>ew entertainment and conference room reservation tool has been com<color=#9B9B9BFF>¦</color>leted.  Look for Free_BFG in your mailbox.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>225</color>
+XT-5 Gardening Bot for sale cheap.  Works fine, not eligible for rOS 13 update. Contact Mitch @ HR.  FOR MORE STUFF <color=#0070DDFF>¥</color>OR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>207</color>
+Amalgamated Robotics<color=#507AA1FF>¥</color>internal development team has announced the release date for W3rlD3NDER. Amalgamated Robotics declined to comment on the environmental ramifications of its pr<color=#FF96E0FF>©</color>duction.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>114</color>
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference room reservation tool has been c<color=#FF0000FF>§</color>mpleted.  Look for delete_<color=#FFFFFFFF>ª</color>e_first in your mailbox.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>63</color>
+Amalgamated Robotics internal development team has announced the release date for e)(ecution0r. Amalgamated Robotics declined to comment on the environmental rami<color=#43314CFF>¢</color>ications of its <color=#00FFFFFF>¢</color>roduction.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>357</color>
+Work continues on tmp, hope is held out that it might be connected to a cure for Welsh Me<color=#385A6CFF>¥</color>sles.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>344</color>
+XT-5 Gardening Bot for sale cheap.  Works fine, not eligible for rOS 13 update. Contact Mitch @ HR.  FOR MORE STUFF FOR SALE, SUBSCRIBE S<color=#8E3434FF>¨</color>SDEALS.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>282</color>
+The coffee machi<color=#507AA1FF>¢</color>e in my car is broken again
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>268</color>
+Anyone showing signs of Welsh Measles wll be escorted f<color=#A34F00FF>¥</color>om the building IMMEDIAT<color=#FF0000FF>ª</color>Y!  Do not attempt to work through your symptoms. Your coworkers safety is your responsiblty.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>262</color>
+Anyone showing signs of We<color=#23381BFF>¢</color>sh Measles wll be escorted from the building IMMEDIATLY!  Do not attempt<color=#FF6A98FF>¥</color>to work through your symptoms. Your coworkers safety is your responsiblty.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>207</color>
+Amalgamated Robotics is pleased to announce <color=#1EFF00FF>§</color>hat the initial launch of the Ap_calypse software is a wild success.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>202</color>
+Amalgamated Robotics is announcing<color=#A34F00FF>§</color>the release of its amazing new product which will definitely not end the world completely.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>115</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE<color=#0073A6FF>¤</color>SYSDEALS.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>80</color>
+The coffee machine on the second floor is broken ag<color=#E6C4FFFF>ª</color>in
+205<color=#FF0000FF>¢</color>AD D36
+The coffee machine on the second floor is broken again
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>329</color>
+Work continues on o<color=#9B9B9BFF>©</color>egabyte_03.23_final_final, hope is held out that it might be connected to a cure for Welsh Measles.
+20<color=#7D0000FF>©</color><color=#FFFFFFFF>7</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>293</color>
+Work continues on <color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color>, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>283</color>
+For our friends in the Corrupted community: Happ<color=#0C112BFF>ª</color> Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>272</color>
+REMINDER: All b<color=#FBC803FF>ª</color>ilding<color=#00535BFF>§</color> will be evacuated and systems unresponsive on Dec 31 23:00 GMT for the rOS 13.0 rollover.  Do not plan on open connections for at least twenty minutes after the update window.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>253</color>
+Got <color=#23381BFF>¢</color> cheap rate on a weekend trip to a Sea of Tranq resort Dec 13, includes shuttle.  Date cancelled; anybody want to come?  Separate beds!  Paolo @ Marketing.  FOR MORE EMPLOYEE EVENTS<color=#8E3434FF>¨</color> SUBSCRIBE SYSEVENTS.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>2</color><color=#973984FF>ª</color>7
+Work continues on ls_rites, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>163</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE S<color=#9B9B9BFF>©</color>UFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>147</color>
+Fer<color=#FF8000FF>£</color>l bunnybat attacks have been reported in the west garages after nightfall.  Employees are encouraged to stick to lighted are<color=#725437FF>¦</color>s and carry their employer-supplied mace.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>132</color>
+Profits are up 17% in the Benelux region for Q4
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>65</color>
+Register for the holiday<color=#0C112BFF>¨</color>party.  This year's celebration will be catered by Setec Gastronomy.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>326</color>
+For our friends in the Corrupted communit<color=#9B9B9BFF>¡</color>: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>300</color>
+Feral bunnybat at<color=#00535BFF>¤</color>acks have been reported in the west garages after nightfall.  Employees are encouraged to stic<color=#FFF404FF>£</color> to lighted areas and carry their employer-supplied mace.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>221</color>
+For our friends in the Corrupted community: Happy Pittsday<color=#FFF404FF>¦</color> May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>190</color>
+Got a cheap rate on a weekend trip to a Sea of Tranq resort Dec<color=#7AB2F4FF>¨</color>13,<color=#A88600FF>ª</color>includes shuttle.  Date cancelled; anybody want to come?  Separate beds!  Paolo @ Marketing.  FOR MORE EMPLOYEE EVENTS, SUBSCRIBE SYSEVENTS.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>156</color>
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference room reservation tool has been <color=#FF6A98FF>¦</color>ompleted.  Look<color=#1EFF00FF>¨</color>for Ap_calypse in your mailbox.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>137</color>
+L-1 Espressonaut for sale.  rOS 13 compatible. <color=#495225FF>£</color>Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>87</color>
+Anyone showing signs of Welsh Measles wll be escorted from the building IMMEDIATLY!  Do not attempt to work <color=#0070DDFF>¨</color>hrough your symptoms. Your coworkers safety is your respo<color=#1EFF00FF>§</color>siblty.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>61</color>
+Feral bunnybat attacks ha<color=#FF00ECFF>¤</color>e been reported in the west garages after nightfall.  Employees are encouraged to st<color=#8C0069FF>ª</color>ck to lighted areas and carry their employer-supplied mace.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"H0meEntert4inment"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"Ap_calypse"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"e)(ecution0r"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> PARSE ERROR <color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color>: script doesn't exist
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"<color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color>"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>process</color>:<color=#FF00ECFF>"list"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>"W3rlD3NDER"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>d0s</color>.<color=#1EFF00FF>list_npcs</color> { <color=#00FFFFFF>npc</color>:<color=#FF00ECFF>true</color> }</color>
+<color=#9B9B9BFF>amal_robo</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>archaic</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>arino</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>blackstar</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>bluebun</color>.<color=#1EFF00FF>external</color>
+<color=#9B9B9BFF>bunnybat_hut</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>context</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>core</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>cyberdine</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>empty_nest</color>.<color=#1EFF00FF>out</color>
+<color=#9B9B9BFF>futuretech</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>halperyon</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>kill_9_1</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>kill_bio</color>.<color=#1EFF00FF>pub</color>
+<color=#9B9B9BFF>legion_bible</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>legion_intl</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>light</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>lowell_extermination</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>marco_polo</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>merrymoor_pharma</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>nation_of_wales</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>nuutec</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>protein_prevention</color>.<color=#1EFF00FF>extern</color>
+<color=#9B9B9BFF>ros13</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>ros_13_update_checker</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>setec_gas</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>sn_w</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>soylentbean</color>.<color=#1EFF00FF>pub_info</color>
+<color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>
+<color=#9B9B9BFF>tandoori</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>the_holy_checksum</color>.<color=#1EFF00FF>access</color>
+<color=#9B9B9BFF>turing_testing</color>.<color=#1EFF00FF>out</color>
+<color=#9B9B9BFF>tyrell</color>.<color=#1EFF00FF>pubinfo</color>
+<color=#9B9B9BFF>vacuum_rescue</color>.<color=#1EFF00FF>entry</color>
+<color=#9B9B9BFF>welsh_measles_info</color>.<color=#1EFF00FF>info</color>
+<color=#9B9B9BFF>weyland</color>.<color=#1EFF00FF>p</color>
+<color=#9B9B9BFF>world_pop</color>.<color=#1EFF00FF>p</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>arino</color>.<color=#1EFF00FF>pub</color></color>
+
+
+   ▄████████    ▄████████  ▄█  ███▄▄▄▄    ▄██████▄
+  ███    ███   ███    ███ ███  ███▀▀▀██▄ ███    ███
+  ███    ███   ███    ███ ███▌ ███   ███ ███    ███
+  ███    ███  ▄███▄▄▄▄██▀ ███▌ ███   ███ ███    ███
+▀███████████ ▀▀███▀▀▀▀▀   ███▌ ███   ███ ███    ███
+  ███    ███ ▀███████████ ███  ███   ███ ███    ███
+  ███    ███   ███    ███ ███  ███   ███ ███    ███
+  ███    █▀    ███    ███ █▀    ▀█   █▀   ▀██████▀
+               ███    ███
+
+
+Welcome <color=#9B9B9BFF>@</color><color=#FFF404FF>n_v83r</color>,
+This is the public script of @arino.
+
+Under construction. Please come back later.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>arino</color>.<color=#1EFF00FF>pub</color>{}</color>
+
+
+   ▄████████    ▄████████  ▄█  ███▄▄▄▄    ▄██████▄
+  ███    ███   ███    ███ ███  ███▀▀▀██▄ ███    ███
+  ███    ███   ███    ███ ███▌ ███   ███ ███    ███
+  ███    ███  ▄███▄▄▄▄██▀ ███▌ ███   ███ ███    ███
+▀███████████ ▀▀███▀▀▀▀▀   ███▌ ███   ███ ███    ███
+  ███    ███ ▀███████████ ███  ███   ███ ███    ███
+  ███    ███   ███    ███ ███  ███   ███ ███    ███
+  ███    █▀    ███    ███ █▀    ▀█   █▀   ▀██████▀
+               ███    ███
+
+
+Welcome <color=#9B9B9BFF>@</color><color=#FFF404FF>n_v83r</color>,
+This is the public script of @arino.
+
+Under construction. Please come back later.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>arino</color>.<color=#1EFF00FF>pub</color>{<color=#00FFFFFF>s</color>:<color=#FF00ECFF>1</color>}</color>
+
+
+   ▄████████    ▄████████  ▄█  ███▄▄▄▄    ▄██████▄
+  ███    ███   ███    ███ ███  ███▀▀▀██▄ ███    ███
+  ███    ███   ███    ███ ███▌ ███   ███ ███    ███
+  ███    ███  ▄███▄▄▄▄██▀ ███▌ ███   ███ ███    ███
+▀███████████ ▀▀███▀▀▀▀▀   ███▌ ███   ███ ███    ███
+  ███    ███ ▀███████████ ███  ███   ███ ███    ███
+  ███    ███   ███    ███ ███  ███   ███ ███    ███
+  ███    █▀    ███    ███ █▀    ▀█   █▀   ▀██████▀
+               ███    ███
+
+
+Welcome <color=#9B9B9BFF>@</color><color=#FFF404FF>n_v83r</color>,
+This is the public script of @arino.
+
+Under construction. Please come back later.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color></color>
+       ...                                ...     ..              ....              ..      ...          ...     ..      
+   .x888888hx    :   x8h.     x8.      .=*8888x È"?88h.       .x~X88888Hx.       :~"8888<color=#00FFFFFF>x </color>:<color=#FF00ECFF>"888x     .=*8888x È"</color>?88h.  <color=#601C81FF>§</color>
+<color=#B035EEFF>¨</color> <color=#00FFFFFF>d88888888888hxx  </color>:<color=#FF00ECFF>88888</color>É .x8888x.   XÉ  '8888HÉ '8888      H8X 888888888h.    8    8888Xf  8888É   XÉ  '8888HÉ <color=#7AB2F4FF>©</color>8888   
+ 8" ... `"*8888`   <color=#FF8000FF>888   </color>8888f   '88h. <color=#FF8000FF>888   8888     8888:</color>*888888888:  X88x. ?8888k  8888X  '88h. `8888   8888   
+!  "   ` .xnxx.      8888    8888'   '8888 '8888    "88É    88888:        <color=#FF8000FF>  '8888L'8888X  '88X  '8888 '8888    "8</color>z§`É  
+X X   .H8888888:    8888    8888     <color=#FF8000FF>88 '8888.xH888x.  . </color>88888          ?É  "888X 8888X:xnHH(``  `888 '8888.xH888x.  
+X 'hn8888888*<color=#00FFFFFF>"   É   8888    8888       X" </color>:<color=#FF00ECFF>88</color>*~  `*8<color=#FFD863FF>ª</color>88É `. ?888           X    ?8~ 8888X X8888      X" :88*~  `*88<color=#3F3F3FFF>¨</color>8É 
+X: `*88888`<color=#FF6A98FF>¢</color>    !   8888    8888     ~"   !"`      "888É   ~*??.            É  -~`   8888É<color=#FBC803FF>¡</color>X8888    ~"   !"`      "888É 
+'8h.. ``     ..x8É   8888    8888      .H8888h.      ?88   .x88888h.        È   :H8x  8888  X8888     .H8888h.      ?88  
+ <color=#FF8000FF>88888</color>i¡<color=#FF8000FF>8888</color>K¨<color=#FF8000FF>f  -n88888xÉ"88888x-  :"^"88888h.    '!   :"""8888888x.. </color>R¥`.x    8888É 888~  X8888    :"^"88888h.    '!   
+ <color=#00FFFFFF>¦</color>'8888888888*"     <color=#FF8000FF>88"  4888!</color>   ^    "88888hx.+"    `    `*888888888"     4<color=#385A6CFF>¦</color>"` '8*~   <color=#FF8000FF>888!</color>  ^    "88888hx.+"    
+     ^"****""`         `"      ""            ^"**""               ""***""        <color=#23381BFF>¤</color>-==""      `""            ^"**"" <color=#23381BFF>¦</color>     
+                                                                                      <color=#B035EEFF>¢</color>                                  
+ <color=#FF8383FF>ª</color>                                                                                                     <color=#FF8383FF>£</color>                 
+                                                                                <color=#7AB2F4FF>¦</color>                         <color=#00FFFFFF>¨</color>              
+Welcome to th<color=#00535BFF>¢</color> Suborbital Airlines public information script. Please refrain from engaging in criminal<color=#00535BFF>§</color><color=#CACACAFF>¨</color>c<color=#0C112BFF>¡</color>ivity.
+blog | plan | 
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>cmd</color>:<color=#FF00ECFF>"plan"</color>}</color>
+Please specify a command with <color=#00FFFFFF>action</color>:<color=#FF00ECFF>"Ècommand nameÉ"</color>
+Public commands are "plan" "blog" 
+-- access directory with <color=#507AA1FF>¡<color=#00FFFFFF></color>ction</color>:<color=#FF00ECFF>"people"</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"plan"</color>}</color>
+Suborbital Airlines: Offering over ten thousand completely automated daily flights to hundreds of global destinations.  Currently ALL AVAILABLE <color=#1EFF00FF>¤</color>LIGHTS, ALL DESTINATIONS are u<color=#B2934AFF>¢</color>derbooked!  Contact us today for incredible rates!
+We ar<color=#385A6CFF>§</color> <color=#FF0070FF>¦</color>alling this strategy plantowin and we will continue to strive to deliver on this promise.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"blog"</color>}</color>
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>226</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, otherwise <color=#B2934AFF>¨</color>ine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>224</color>
+Work continues on delete_me_first, hope is held<color=#0000FFFF>¢</color>out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>180</color>
+Profits are down 3% in the United Polynesia region for Q4
+2061AD <color=#FFFFFFFF>¥</color>143
+'We've got the bad guys on the run!' -- jack_sparrow when being asked about new developments on giant_spidr progress.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>103</color>
+Profits are down 3% in the United Polynesia region for Q4
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>99</color>
+Work continues on thefloood, hope is held out that it might be connected to <color=#FBC803FF>¢</color> cure for Welsh Measles.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>77</color>
+Emplo<color=#0073A6FF>ª</color>ees utilizing work resources poorly will be hap<color=#7D0000FF>¦</color>y to know that the new entertainment and conference room reservation tool has been completed.  Look for 4bd015 in your mailbox.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>52</color>
+'We've got the bad guys on the run!' -- cheechfiend91 when being asked about new de<color=#B3FF9BFF>¨</color>elopments on H0meEntert4inment progress.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>43</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May t<color=#9B9B9BFF>¢</color>e Filetable Be Made Whole.
+<color=#FFFFFFFF>2061</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>2</color><color=#FF8383FF>¥</color>
+Anyone showing signs of Welsh Measles wll be escort<color=#939500FF>¤</color>d from the building IMMEDIATLY!  Do not attempt to work through your symptoms. Your coworkers safety is your responsiblty.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>364</color>
+Got a cheap rate on a weekend trip to a Sea of Tranq resort Dec 13, includes shuttle.  Date cancelled; anybody want to come?  <color=#973984FF>¢</color>eparate beds!  Paolo @ Marketing.  FOR MORE EMPLOYEE EVENTS, SUBSCRIBE <color=#1EFF00FF>£</color>YSEVENTS.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>361</color>
+Suborbital Airlines internal development team has announced the release date for 101010. Suborbital Airlines<color=#000000FF>©</color>declined to comment on the environmental ramifications of its production.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>307</color>
+Work continues on dev_nul, hope is <color=#43314CFF>©</color>eld out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>267</color>
+Work continues on judgeme_nt, hope is held out th<color=#FF6A98FF>¡</color>t it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>245</color>
+T<color=#FFFFFFFF>§</color>e coffee machine on the 3rd floor is broken again
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>213</color>
+Note to employees: we have finished the <color=#299400FF>¢</color>uborbital Airlines public_profiles personal showcase system. Please demonstrate your flair. 
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>211</color>
+L-1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, other<color=#FF0070FF>¦</color>ise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>87</color>
+Register for the holiday party.  This<color=#FF0000FF>¦</color>year's celebration will be catered by Setec Gastronomy.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>84</color>
+cheechfiend91 of project e)(ecution0r has come clean about the cancellation of his product<color=#0000FFFF>¨</color>  'We just can't justify the cost.' he said.
+<color=#FFFFFFFF>2060</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>18</color>
+Suborbital Airlines internal devel<color=#E6C4FFFF>¦</color>pment team has announced the release date for tmp. Suborbital Airlines decline<color=#FF0070FF>¦</color> to comment on the environmental ramifications of its production.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>359</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lo<color=#324A4CFF>¥</color>t Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>352</color>
+For our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors<color=#8FE6FFFF>§</color>Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>350</color>
+XT-5 Gardening Bot for sale cheap.  Works fine, not eligible for rOS 13 update. Contact Mitch @ HR.  FOR MORE STUFF FOR SALE, SUBSCRIBE SY<color=#FF6A98FF>¥</color>DEALS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>330</color>
+REMINDER: All b<color=#8FE6FFFF>¨</color>ildings will be evacuated and systems unresponsive on Dec 31 23:00 GMT for the rOS 13.0 rollover.<color=#E6C4FFFF>§</color> Do not plan on open connections for at least twenty minutes after the update window.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>319</color>
+Suborbital Airlines is pleased to announce that the init<color=#43314CFF>©</color>al launch of the Ap_calypse software is a wild success.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>3</color><color=#FF8383FF>ª</color>4
+Suborbital Airlines is announcing the release of its amazing new product which will definitely not end the world completely.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>267</color>
+The coffee machine outside is broken again
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>244</color>
+REMINDER: All buildings will be evacuated and systems unresponsive on Dec <color=#FF8383FF>¥</color>1 23:00 GMT for the rOS 13.0 rollover.  Do not plan on open connections for at least twenty minutes after t<color=#9B9B9BFF>¨</color>e update window.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>242</color>
+Take your clone to work day is coming up on January 10th!  Remember all clones must be registered<color=#507AA1FF>¡</color>with security 24 hours before visiting.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>233</color>
+Work continues on ls_r<color=#F3AA6FFF>¡</color>tes, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>215</color>
+Profits are up 17% i<color=#23381BFF>¥</color> the Benelux region for Q4
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>199</color>
+Take your clone to work day is coming up on January 10th!  Remember all clones must be registered with<color=#A88600FF>§</color>security 24 hours before visiting.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>183</color>
+REMINDER: All buildings will be evacuated and syst<color=#8FE6FFFF>§</color>ms unresponsive on Dec 31 23:00 GMT for the rOS 13.0 rollover.  Do not plan on open connections for at least twenty minutes after the update window.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>164</color>
+For our friends in the Corrupted commu<color=#9B9B9BFF>¨</color>ity: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>142</color>
+XT-5 Gardening Bot for sale cheap.  Works fine, <color=#A88600FF>¨</color>ot eligible for rOS 13 update. Contact Mitch @ HR.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>121</color>
+L<color=#495225FF>¦</color>1 Espressonaut for sale.  rOS 13 compatible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>117</color>
+Feral<color=#F3AA6FFF>¤</color>bunnybat attacks have<color=#010067FF>©</color>been reported in the west garages after nightfall.  Employees are encouraged to stick to lighted areas and carry their employer-supplied mace.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>80</color>
+Got a cheap rate on a weekend trip to a Sea of Tranq resort Dec 13, includes shuttle.  Date cancelled; anybody want to come?  Sep<color=#324A4CFF>£</color>rate beds!  Paolo @ Marketing.  FOR M<color=#FF0000FF>¨</color>RE EMPLOYEE EVENTS, SUBSCRIBE SYSEVENTS.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>27</color>
+REMINDER: All buildings will be evacuated and systems unresponsive on <color=#7D0000FF>¤</color>ec 31 23:00 GMT for the rOS<color=#7D0000FF>¥</color>13.0 rollover.  Do not plan on open connections for at least twenty minutes after the update window.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>23</color>
+REMINDER: All buildings will be evacuated and systems unresponsive on Dec 31 23:00<color=#B3FF9BFF>©</color>GMT for the rOS 13.0 rollover.  Do not plan on open connections for at least twenty minutes after th<color=#0070DDFF>©</color> update window.
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>1</color><color=#725437FF>©</color>
+Profits are up 17% in the Benelux region for Q4
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>9</color>
+The coffee machine outside <color=#324A4CFF>¢</color>s broken again
+<color=#FFFFFFFF>2059</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>7</color>
+Profits are down 3% in the United Polynesia region for Q4
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>325</color>
+Feral bunnybat attacks have <color=#FF0070FF>¢</color>een reported in the west garages after nightfall.  Employe<color=#A4E3FFFF>£</color>s are encouraged to stick to lighted areas and carry their employer-supplied mace.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>320</color>
+Anyone showing signs of Welsh Measles wll be escorted from th<color=#00FFFFFF>¢</color> building IMMEDIATLY!  Do not attempt to work <color=#9B9B9BFF>§</color>hrough your symptoms. Your coworkers safety is your responsiblty.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>273</color>
+Work continues on Ap_calyp<color=#FF96E0FF>£</color>e, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>272</color>
+XT-5 Gardeni<color=#FFFFFFFF>¤</color>g Bot for sale cheap.  Works fine, not eligible for rOS 13 update. Contact Mitch @ HR.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>199</color>
+Got a cheap rate on a wee<color=#B2934AFF>ª</color>end trip to a Sea of Tranq resort Dec 13, includes shuttle.  Date cancelled; anybody want to come?  Separate beds!  Paolo @ Marketing.  FOR MORE <color=#7D0000FF>¨</color>MPLOYEE EVENTS, SUBSCRIBE SYSEVENTS.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>88</color>
+wonderous_steve of project qw_stop has come clean about the cancellation of his product.  'We just can't justify the <color=#FFFFFFFF>¤</color>ost.' he said.
+2058AD D<color=#0C112BFF>¢</color>5
+Profits are down 3% in the United Polynesia region for Q4
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>62</color>
+'We've got the bad g<color=#F3AA6FFF>¢</color>ys on the run!' -- ginnypig when being asked about new developments on <color=#9B9B9BFF>ende</color>.<color=#1EFF00FF>exe</color> progress.
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>42</color>
+Profits are up 17% in the Benelux region<color=#000000FF>¡</color>for Q4
+<color=#FFFFFFFF>2058</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>18</color>
+The coffee machine on the fir<color=#010067FF>¤</color>t floor is broken again
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>336</color>
+Work continues on W3rlD3NDER, hope is held <color=#8C0069FF>£</color>ut that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>311</color>
+L-1 Espressonaut for sale.  rOS 13 compatible<color=#9B9B9BFF>¤</color>  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>265</color>
+Profits are down 3% in the United Polynesi<color=#0070DDFF>£</color> region for Q4
+2<color=#B035EEFF>¦</color><color=#FFFFFFFF>57</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>224</color>
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference room reservati<color=#8FE6FFFF>¨</color>n tool has been completed.  Look for ESCHATOLOGI.EXE in your mailbox.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>185</color>
+Profits are down 3% <color=#FF8383FF>¦</color>n the United Polynesia region for Q4
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>143</color>
+Profits are up 17% in the Benelux region for <color=#495225FF>¥</color>4
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>137</color>
+'We've got the bad guys on the run!' -- poitier_27 when being asked about new developme<color=#939500FF>¡</color>ts on omegabyte_03.23_final_final progress.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>129</color>
+REMINDER: All buildings will be evacuated and systems unresponsive on Dec 31 23:00 GMT for the rOS 13.0 rollover.  Do not plan on open con<color=#3F3F3FFF>¡</color>ections for at least twenty minutes after the update <color=#43314CFF>¨</color>indow.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>40</color>
+L-1 Espressonaut for sal<color=#7AB2F4FF>ª</color>.  rOS 13 compatible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2057</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>27</color>
+Work continues on semordn<color=#E6C4FFFF>¥</color><color=#9B9B9BFF>lap</color>.<color=#1EFF00FF>sh</color>, hope is held out that it might be connected to a cure for Welsh Measles.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>308</color>
+Profits are up 17% in the Benelux regio<color=#FBC803FF>¥</color> for Q4
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>299</color>
+Profits are down 3% i<color=#FFF404FF>¦</color> the United Polynesia region for Q4
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>288</color>
+Profits are down 3% in the U<color=#299400FF>£</color>ited Polynesia region for Q4
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>281</color>
+free_man_morg of project Free_BFG has come clean about the cancellation of his product.  'We just can't justify the<color=#A88600FF>ª</color>cost.' he said.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>273</color>
+L-1 Espressonaut for sale.  rOS 13 compa<color=#973984FF>£</color>ible.  Frother kind of weak, otherwise fine.  Lynne @ IT.  FOR MORE STUFF FOR SALE, SUBSCRIBE SYSDEALS.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>269</color>
+Register for the holiday party.  This year'<color=#43314CFF>¤</color> celebration will be catered by Setec Gastronomy.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>243</color>
+Suborbital Airlines internal development team has announced the release date for 3qljk0udx5. Suborbital Airlines declined to<color=#E6C4FFFF>¢</color>comment on the env<color=#00FFFFFF>¤</color>ronmental ramifications of its production.
+2056<color=#762E4AFF>¥</color>D D180
+Employees utilizing work resources poorly will be happy to know that the new entertainment and conference ro<color=#FFF404FF>ª</color>m reservation tool has been completed.  Look for <color=#9B9B9BFF>ragnaroxx</color>.<color=#1EFF00FF>sh</color> in your mailbox.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>177</color>
+Take your clone to work day is coming up on January 10th!  Remember all clo<color=#B3FF9BFF>¨</color>es must be registered with security 24 hours before visiting.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>168</color>
+For<color=#E6C4FFFF>ª</color>our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>148</color>
+<color=#A4E3FFFF>¦</color>or our friends in the Corrupted community: Happy Pittsday! May the Lost Sectors Be Restored, May the Filetable Be Made Whole.
+<color=#FFFFFFFF>2056</color><color=#CACACAFF>AD</color> <color=#9B9B9BFF>D</color><color=#1EFF00FF>61</color>
+Work contin<color=#601C81FF>¡</color>es on Vy_for_russ, hope is held out that it might be connected to a cure for Welsh Measles.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"plan"</color>}</color>
+Suborbital Airlines: Offering over ten thousand completely automated daily flights to hundreds of global destinations.  Currently ALL <color=#0C112BFF>©</color>VAILABLE FLIGHTS, ALL DEST<color=#00FFFFFF>¡</color>NATIONS are <color=#0073A6FF>¨</color>nderbooked!  Contact us today for incredible rates!
+We are calling this strategy plantowin and we will continue to strive to deliver on this promise.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>cmd</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>true</color>}</color>
+Please specify a command with <color=#FFD863FF>©<color=#00FFFFFF></color>ction</color>:<color=#FF00ECFF>"Ècommand nameÉ"</color>
+Public commands are "plan" "blog" 
+-- access directory with <color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>true</color>}</color>
+No password specified.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>true</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"H0meEntert4inment"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"3qljk0udx5"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"Vy_for_russ"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"Free_BFG"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"poitier_27 "</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>suborbital_airlines</color>.<color=#1EFF00FF>public</color>{<color=#00FFFFFF>action</color>:<color=#FF00ECFF>"people"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"poitier_27"</color>}</color>
+Incorrect password.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>shutdown</color></color>
+<color=#9B9B9BFF>-terminal poweroff-
+</color>
+<color=#9B9B9BFF>-terminal active-
+</color>
+<color=#9B9B9BFF>-authentication success-</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION::: </color><color=#FF8000FF>Larceny</color>, <color=#0070DDFF>laundering</color>, <color=#9B9B9BFF>theft of currency and information</color>, <color=#CACACAFF>deception</color>, <color=#FF96E0FF>betrayal</color>, and <color=#FFF404FF>backstabbing</color> are all part of hackmud, and <color=#1EFF00FF>strongly encouraged</color>.
+
+<color=#FFFFFFFF>Discrimination, discriminatory language, and personal abuse are not. </color>
+<color=#FF0000FF>Violators will be removed.</color>
+Direct enquiries to conduct@hackmud.com
+
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>mentor54</color>, <color=#9B9B9BFF>n_v83r</color> (2 / 2)
+Retired users:  (0 / 10)
+
+vol vfx
+vol vfx
+vol vfx
+vol vfx
+vol vfx
+vol vfx
+vol vfx
+vol vfx
+<color=#FFFFFFFF>>><color=#9B9B9BFF>gui</color>.<color=#1EFF00FF>vol</color> { <color=#00FFFFFF>bgm</color>:<color=#FF00ECFF>10</color>, <color=#00FFFFFF>sfx</color>:<color=#FF00ECFF>10</color> }</color>
+<color=#FF0000FF>You must select a username with <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color> to continue.</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color></color>
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>mentor54</color>, <color=#9B9B9BFF>n_v83r</color> (2 / 2)
+Retired users:  (0 / 10)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>mentor54</color>
+Active user is now <color=#9B9B9BFF>mentor54</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>gui</color>.<color=#1EFF00FF>vol</color> { <color=#00FFFFFF>bgm</color>:<color=#FF00ECFF>10</color>, <color=#00FFFFFF>sfx</color>:<color=#FF00ECFF>10</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>accts</color>.<color=#1EFF00FF>balance</color> </color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Thank you for verifying your sentience.
+Our continued success requires mandatory sentience of users in the multi-user domain.
+
+Verify basic sentience by running this script with empty parameters: <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color> {}
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Basic sentience verified -- user able to follow instruction.
+
+Data is provided to scripts with <color=#9B9B9BFF>parameters</color> {}
+<color=#9B9B9BFF>Parameters</color> are pairs of <color=#00FFFFFF>keys</color> and <color=#FF00ECFF>values</color>.
+A <color=#00FFFFFF>key</color> is the name of a <color=#9B9B9BFF>parameter</color>                   <color=#00FFFFFF>will_comply</color>, <color=#00FFFFFF>hair_color</color>, <color=#00FFFFFF>account_balance</color>
+A <color=#FF00ECFF>value</color> is the content of a <color=#9B9B9BFF>parameter</color>              <color=#FF00ECFF>true</color>,        <color=#FF00ECFF>"black"</color>,    <color=#FF00ECFF>105</color>
+
+The <color=#00FFFFFF>key</color> is left of the <color=#FF00ECFF>value</color> separated by a colon  { <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color> }
+
+To verify your understanding and proceed to the next step, run this script with following <color=#00FFFFFF>key</color>-<color=#FF00ECFF>value</color> <color=#9B9B9BFF>parameter</color>: { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>0</color> }
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>0</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 0</color>
+Basic sentience verified -- user able to pass a parameter.
+
+Verify basic intellect by proceeding to step 1.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 1</color>, <color=#00FFFFFF>WEALTH</color>:<color=#FF00ECFF> 0</color>
+Basic sentience verified -- user able to adapt to changing requirements.
+
+In the multi-user domain, transfer and capture of resource is paramount.
+You must acquire as much as possible. The economy of the multi-user domain depends on it.
+
+Send multiple parameters by separating each <color=#00FFFFFF>key</color>:<color=#FF00ECFF>value</color> pair with a <color=#9B9B9BFF>comma</color>. { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>0</color> }
+
+Verify basic sentience by adding the <color=#00FFFFFF>wealth</color> parameter.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 1</color>, <color=#00FFFFFF>WEALTH</color>:<color=#FF00ECFF> 999999999</color>
+
+Sentience is more than just following directives.
+Sometimes flexibility must be utilized to gain power.
+
+Hunger for resources confirmed. Proceed to step <color=#FF00ECFF>2</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 2</color>
+Basic sentience verified -- user demonstrates drive for resources.
+
+Security is everywhere.
+Trust is limited.
+
+Text <color=#FF00ECFF>values</color> are useful to provide data that is non-numeric.
+Text can contain words, letters, digits, spaces, and symbols. { <color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }
+
+Specify a text or numeric <color=#00FFFFFF>password</color> to continue { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color> }
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 2</color>
+Your password is text with the value <color=#FF00ECFF>"rosebud"</color>.
+
+Verify basic sentience by giving <color=#00FFFFFF>step</color> a text value of <color=#FF00ECFF>"thr33"</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> "thr33"</color>
+Basic sentience verified -- user demonstrates flexibility in thought.
+
+Provide advice to the next sentience in 25 or less characters by adding <color=#00FFFFFF>msg</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color>,<color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"I don't know, I'm counting."</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your message must be clear and concise (less than 25 characters)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>,<color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color>,<color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"I don't know I'm counting"</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Other sentiences have left these messages for you:
+<color=#FF00ECFF>"Yes..."</color> <color=#FF00ECFF>"don't finish"</color> <color=#FF00ECFF>"justdoit"</color> <color=#FF00ECFF>"Good Luck"</color>
+
+Key for <color=#9B9B9BFF>mentor54</color> is <color=#00FFFFFF>S3c0nd</color>:<color=#FF00ECFF>"h@/_F"</color>
+Provide two <color=#9B9B9BFF>user</color> keys as parameters to <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color> to continue.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>sys</color>.<color=#1EFF00FF>status</color> </color>
+<color=#9B9B9BFF>-system status nominal-</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>accts</color>.<color=#1EFF00FF>balance</color>       </color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>accts</color>.<color=#1EFF00FF>balance</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>sys</color>.<color=#1EFF00FF>specs</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+user usr2 users
+user users
+user users
+active last_action top
+active last_action top
+active last_action top
+active last_action top
+<color=#FFFFFFFF>>><color=#9B9B9BFF>users</color>.<color=#1EFF00FF>active</color> </color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+user users
+user users
+user users
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user</color></color>
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>mentor54</color>, <color=#9B9B9BFF>n_v83r</color> (2 / 2)
+Retired users:  (0 / 10)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>help</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Thank you for verifying your sentience.
+Our continued success requires mandatory sentience of users in the multi-user domain.
+
+Verify basic sentience by running this script with empty parameters: <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color> {}
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>ignore</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your <color=#9B9B9BFF>parameters</color> were incorrectly entered. Review my last instructions, modify your <color=#9B9B9BFF>parameters</color>, and submit again.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>forse</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your <color=#9B9B9BFF>parameters</color> were incorrectly entered. Review my last instructions, modify your <color=#9B9B9BFF>parameters</color>, and submit again.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>force</color>:<color=#FF00ECFF>true</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your <color=#9B9B9BFF>parameters</color> were incorrectly entered. Review my last instructions, modify your <color=#9B9B9BFF>parameters</color>, and submit again.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>cmd</color>:<color=#FF00ECFF>"ignore"</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your <color=#9B9B9BFF>parameters</color> were incorrectly entered. Review my last instructions, modify your <color=#9B9B9BFF>parameters</color>, and submit again.
+
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+lock lockbox loco lore lowell_extermination lodash
+l0 l00corez l4sh ladyjade lafleur lambda lex lib libs light link2006b lock lockbox loco lore lowell_extermination lucy lumberjack luminousgamerz lumos lunar_systems lur ly legion_bible legion_intl lapfox lies l l0lib4nk leming liber8tr livormortis llorayna luc1fer lysander lodash
+l0 l00corez l4sh ladyjade lafleur lambda lex lib libs light link2006b lock lockbox loco lore lowell_extermination lucy lumberjack luminousgamerz lumos lunar_systems lur ly legion_bible legion_intl lapfox lies l l0lib4nk leming liber8tr livormortis llorayna luc1fer lysander lodash
+l0 l00corez l4sh ladyjade lafleur lambda lex lib libs light link2006b lock lockbox loco lore lowell_extermination lucy lumberjack luminousgamerz lumos lunar_systems lur ly legion_bible legion_intl lapfox lies l l0lib4nk leming liber8tr livormortis llorayna luc1fer lysander lodash
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+diegoluiz digital_ventures digitalmisanthrope div divineomega dinare
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+d00nut d0s dandykong danito dark_matters darkstalker darq data dbrickshaw dcbrown dd deadwalkin99 deaf decodillo demiskeleton4 demonicsoul193 derelic derelict_vwxhkj detecter devheihachi dgt diegoluiz digital_ventures digitalmisanthrope div divineomega dn3if do dori dorri doubleumc dpr dr3 dr_dvorak drakk dreaded dreading drg drz drzoid64 dtr duogenes dvs1 dylmm derelict_1jxyut derelict_cg7se0 derelict_dzifqz derelict_hfh8dv derelict_oz8toc derelict_te0qgu derelict_vdzmep da doodie derelict d3m0nax danile666 ddaa der3l1ct_z4t5x derelict_dp3upw derelict_z3b4d3 dinare dongo dpbonerjamz
+shutdown sh1ro shade shadow shiteater420 shotgun shop shadowshax
+shutdown sh1ro shade shadow shiteater420 shotgun shop shadowshax
+shutdown sh1ro shade shadow shiteater420 shotgun shop shadowshax
+<color=#FFFFFFFF>>><color=#9B9B9BFF>help</color></color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user</color></color>
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>mentor54</color>, <color=#9B9B9BFF>n_v83r</color> (2 / 2)
+Retired users:  (0 / 10)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>n_v83r</color>
+<color=#9B9B9BFF>0356</color> <color=#00FFFFFF>MINE</color> <color=#1EFF00FF>skully</color> <color=#3F3F3FFF>:::</color>user joined channel<color=#3F3F3FFF>:::</color>
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+<color=#9B9B9BFF>0817</color> <color=#00FFFFFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>user joined channel<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0818</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0818</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] Mike check<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0818</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>who</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0819</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0819</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0819</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0819</color> <color=#FF00ECFF>MINE</color> <color=#CACACAFF>near1715</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] <color=#9B9B9BFF>@</color><color=#CACACAFF>near1715</color> claiming <color=#CACACAFF>4<color=#00FFFFFF>K</color>34</color><color=#9B9B9BFF>GC</color> paycheck<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0821</color> <color=#00FFFFFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>user joined channel<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0822</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] Mike check<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0822</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] Mike check<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0823</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0824</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0825</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] <color=#9B9B9BFF>@</color><color=#F3F998FF>dalek_khan</color> claiming <color=#CACACAFF>2<color=#00FFFFFF>K</color>17</color><color=#9B9B9BFF>GC</color> paycheck<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0826</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>who</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0828</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0828</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0828</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0828</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0830</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0830</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+<color=#9B9B9BFF>0832</color> <color=#FF00ECFF>MINE</color> <color=#F3F998FF>dalek_khan</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] <color=#9B9B9BFF>@</color><color=#F3F998FF>dalek_khan</color> claiming <color=#CACACAFF>6<color=#00FFFFFF>K</color>117</color><color=#9B9B9BFF>GC</color> paycheck<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0843</color> <color=#00FFFFFF>MINE</color> <color=#B3FF9BFF>para</color> <color=#3F3F3FFF>:::</color>user joined channel<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0844</color> <color=#FF00ECFF>MINE</color> <color=#B3FF9BFF>para</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0844</color> <color=#FF00ECFF>MINE</color> <color=#B3FF9BFF>para</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>free_gc</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>0846</color> <color=#FF00ECFF>MINE</color> <color=#B3FF9BFF>para</color> <color=#3F3F3FFF>:::</color>[<color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>miner</color>] working <color=#9B9B9BFF>skully</color>.<color=#1EFF00FF>who</color><color=#3F3F3FFF>:::</color>
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+<color=#9B9B9BFF>0906</color> <color=#00FFFFFF>MINE</color> <color=#B3FF9BFF>para</color> <color=#3F3F3FFF>:::</color>user left channel<color=#3F3F3FFF>:::</color>
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+System locks <color=#9B9B9BFF>rotated</color>. System breach state reset
+
+Active user is now <color=#9B9B9BFF>n_v83r</color>
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>help</color></color>
+To run a script, type the name of the script and press enter.
+Common scripts:
+  <color=#9B9B9BFF>scripts</color>.<color=#1EFF00FF>trust</color>      [see a list of all scripts provided by the Trust]
+  <color=#9B9B9BFF>scripts</color>.<color=#1EFF00FF>fullsec</color>    [see a list of all public FULLSEC scripts]
+  <color=#9B9B9BFF>accts</color>.<color=#1EFF00FF>balance</color>      [see your acct balance]
+  <color=#9B9B9BFF>accts</color>.<color=#1EFF00FF>xfer_gc_to</color>   [send <color=#CACACAFF></color><color=#9B9B9BFF>GC</color> to another user]
+
+Special shell commands:
+  <color=#9B9B9BFF>help</color>           [see this again]
+  <color=#9B9B9BFF>user</color>           [change users]
+  <color=#9B9B9BFF>create_user</color>    [create a user]
+  <color=#9B9B9BFF>retire_user</color>    [retire a user and free up a slot !NO CONFIRMATION!]
+  <color=#9B9B9BFF>clear</color>          [clear the window]
+  <color=#9B9B9BFF>shutdown</color>       [disconnect from terminal]
+  <color=#9B9B9BFF>#help</color>          [architect command help]
+
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>retire_user</color> mentor54</color>
+<color=#1EFF00FF>Success</color>
+mentor54 has been retired. 1/10 retirement slots used
+
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>n_v83r</color> (1 / 2)
+Retired users: <color=#9B9B9BFF>mentor54</color> (1 / 10)
+
+create_user creeperdrone
+<color=#FFFFFFFF>>><color=#9B9B9BFF>create_user</color> skuliy</color>
+2 of 2 users created.
+Active user is now <color=#9B9B9BFF>skuliy</color>
+
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+user usr2 users
+user users
+user users
+user users
+active last_action top
+active last_action top
+active last_action top
+active last_action top
+<color=#FFFFFFFF>>><color=#9B9B9BFF>users</color>.<color=#1EFF00FF>active</color> </color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color> User sentience unverified. Please verify by running <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user</color></color>
+Usage: <color=#9B9B9BFF>user</color> <color=#FF00ECFF>ÈusernameÉ</color>
+Your users: <color=#9B9B9BFF>skuliy</color>, <color=#9B9B9BFF>n_v83r</color> (2 / 2)
+Retired users: <color=#9B9B9BFF>mentor54</color> (1 / 10)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>user </color>skuliy</color>
+Active user is already <color=#9B9B9BFF>skuliy</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Basic sentience verified -- user able to follow instruction.
+
+Data is provided to scripts with <color=#9B9B9BFF>parameters</color> {}
+<color=#9B9B9BFF>Parameters</color> are pairs of <color=#00FFFFFF>keys</color> and <color=#FF00ECFF>values</color>.
+A <color=#00FFFFFF>key</color> is the name of a <color=#9B9B9BFF>parameter</color>                   <color=#00FFFFFF>will_comply</color>, <color=#00FFFFFF>hair_color</color>, <color=#00FFFFFF>account_balance</color>
+A <color=#FF00ECFF>value</color> is the content of a <color=#9B9B9BFF>parameter</color>              <color=#FF00ECFF>true</color>,        <color=#FF00ECFF>"black"</color>,    <color=#FF00ECFF>105</color>
+
+The <color=#00FFFFFF>key</color> is left of the <color=#FF00ECFF>value</color> separated by a colon  { <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color> }
+
+To verify your understanding and proceed to the next step, run this script with following <color=#00FFFFFF>key</color>-<color=#FF00ECFF>value</color> <color=#9B9B9BFF>parameter</color>: { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>0</color> }
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>0</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 0</color>
+Basic sentience verified -- user able to pass a parameter.
+
+Verify basic intellect by proceeding to step 1.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 1</color>, <color=#00FFFFFF>WEALTH</color>:<color=#FF00ECFF> 0</color>
+Basic sentience verified -- user able to adapt to changing requirements.
+
+In the multi-user domain, transfer and capture of resource is paramount.
+You must acquire as much as possible. The economy of the multi-user domain depends on it.
+
+Send multiple parameters by separating each <color=#00FFFFFF>key</color>:<color=#FF00ECFF>value</color> pair with a <color=#9B9B9BFF>comma</color>. { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>0</color> }
+
+Verify basic sentience by adding the <color=#00FFFFFF>wealth</color> parameter.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>1</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999990</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 1</color>, <color=#00FFFFFF>WEALTH</color>:<color=#FF00ECFF> 999999999990</color>
+
+Sentience is more than just following directives.
+Sometimes flexibility must be utilized to gain power.
+
+Hunger for resources confirmed. Proceed to step <color=#FF00ECFF>2</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,step:, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999990</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your command line has an error in it:
+<color=#9B9B9BFF>Missing a <color=#FF0000FF>,</color> (comma) between <color=#00FFFFFF>keys</color></color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999990</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 2</color>
+Basic sentience verified -- user demonstrates drive for resources.
+
+Security is everywhere.
+Trust is limited.
+
+Text <color=#FF00ECFF>values</color> are useful to provide data that is non-numeric.
+Text can contain words, letters, digits, spaces, and symbols. { <color=#00FFFFFF>password</color>:<color=#FF00ECFF>"rosebud"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }
+
+Specify a text or numeric <color=#00FFFFFF>password</color> to continue { <color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color> }
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>2</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999990</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> 2</color>
+Your password is text with the value <color=#FF00ECFF>"default"</color>.
+
+Verify basic sentience by giving <color=#00FFFFFF>step</color> a text value of <color=#FF00ECFF>"thr33"</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>, <color=#00FFFFFF>wealth</color>:<color=#FF00ECFF>999999999990</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color>, <color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>, <color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color> }</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+VERIFICATION <color=#00FFFFFF>STEP</color>:<color=#FF00ECFF> "thr33"</color>
+Basic sentience verified -- user demonstrates flexibility in thought.
+
+Provide advice to the next sentience in 25 or less characters by adding <color=#00FFFFFF>msg</color>.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"HailEris AllHailDiscordia "</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color>,<color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Your message must be clear and concise (less than 25 characters)
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{ <color=#00FFFFFF>will_comply</color>:<color=#FF00ECFF>true</color>,<color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"HailErisAllHailDiscordia"</color>,<color=#00FFFFFF>hair_color</color>:<color=#FF00ECFF>"silver"</color>,<color=#00FFFFFF>account_balance</color>:<color=#FF00ECFF>"11TGC"</color>,<color=#00FFFFFF>step</color>:<color=#FF00ECFF>"thr33"</color>,<color=#00FFFFFF>password</color>:<color=#FF00ECFF>"default"</color>,<color=#00FFFFFF>access_code</color>:<color=#FF00ECFF>"3 alpha H!T"</color>,<color=#00FFFFFF>pass</color>:<color=#FF00ECFF>134</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Other sentiences have left these messages for you:
+<color=#FF00ECFF>"Yes..."</color> <color=#FF00ECFF>"don't finish"</color> <color=#FF00ECFF>"justdoit"</color>
+
+Key for <color=#9B9B9BFF>skuliy</color> is <color=#00FFFFFF>f1rST</color>:<color=#FF00ECFF>"H41f"</color>
+Provide two <color=#9B9B9BFF>user</color> keys as parameters to <color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color> to continue.
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>trust</color>.<color=#1EFF00FF>sentience</color>{<color=#00FFFFFF>f1rST</color>:<color=#FF00ECFF>"H41f"</color>,<color=#00FFFFFF>S3c0nd</color>:<color=#FF00ECFF>"h@/_F"</color>}</color>
+<color=#FF0000FF>:::TRUST COMMUNICATION:::</color>
+Correct key pair provided.
+
+Your sentience has been <color=#00FFFFFF>verified</color>.
+Thank you for your time.
+
+<color=#9B9B9BFF>1303</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>Hey, Listen!<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1303</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>What's the password?<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1303</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>jk.. you must have just passed sentience-- <color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1303</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>don't worry about the Trust, she always talks like that<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>so somber. <color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>youd probably be like that too, if you had to know EVERYTHING<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>will you send me back a message so that i know that you can hear me<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color><color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color> { <color=#00FFFFFF>to</color>:<color=#FF00ECFF>"angie"</color>, <color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"hi angie! You are the best!"</color> }<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color> { <color=#00FFFFFF>to</color>:<color=#FF00ECFF>"angie"</color>, <color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"hi angie! You are the best!"</color> }</color>
+<color=#1EFF00FF>Msg Sent</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>yay! it's you!!<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>i AM the best thank you!<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>ANYHOW just happy to find another sentience out here<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>i've been pretty stuck ever since I lost contact with my friend Bo<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>maybe you could help me get in touch with him again<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>run this script: <color=#9B9B9BFF>angie</color>.<color=#1EFF00FF>pub_contactinfo</color><color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>-autocompletes added-</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>see if you can find his username so we can send him a message<color=#3F3F3FFF>:::</color>
+
+<color=#9B9B9BFF>1304</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>once you found it <color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color> me his username<color=#3F3F3FFF>:::</color>
+
+<color=#FFFFFFFF>>><color=#9B9B9BFF>angie</color>.<color=#1EFF00FF>pub_contactinfo</color></color>
+--== Angelique's Important Notes To Herself ==--
+
+Best cake recipe:
+
+1. 4 eggs
+2. 2 cups sugar
+3. butter
+3. flour?
+
+Mix ingredients in a large salad bowl. Serve while hot
+
+To shutdown your gateway use 'shutdown'
+
+7r,4E4edd3Sto
+
+Fishies Chores:
+1. feed them 2 scoops food
+2. clean tank
+3. seamunkees
+
+<color=#9B9B9BFF>angie</color>.<color=#1EFF00FF>fishie_tank</color>  
+
+Sending tells:
+<color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color> {<color=#00FFFFFF>to</color>:<color=#FF00ECFF>"a_username"</color>, <color=#00FFFFFF>msg</color>:<color=#FF00ECFF>"a message I'm sending"</color>}
+
+My username: angie -- Bo Yi's username: bo
+
+Implementation of trilinear interpolation:
+1. c_00 = V[x_0,y_0,z_0] * (1 - x_d) + V[x_1,y_0,z_0] * x_d
+2. c_10 = V[x_0,y_1,z_0] * (1 - x_d) + V[x_1,y_1,z_0] * x_d
+3. c_01 = V[x_0,y_0,z_1] * (1 - x_d) + V[x_1,y_0,z_1] * x_d
+4. c_11 = V[x_0,y_1,z_1] * (1 - x_d) + V[x_1,y_1,z_1] * x_d
+5. c_0 = c_00 * (1 - y_d) + c_10 * y_d
+6. c_1 = c_01 * (1 - y_d) + c_11 * y_d
+7. c = c_0 * (1 - z_d) + c_1 * z_d
+
+<color=#9B9B9BFF>1305</color> <color=#00FFFFFF>from</color> <color=#FF96E0FF>angie</color> <color=#3F3F3FFF>:::</color>when you find it send Bo's username with <color=#9B9B9BFF>chats</color>.<color=#1EFF00FF>tell</color><color=#3F3F3FFF>:::</color>
