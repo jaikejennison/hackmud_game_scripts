@@ -4,7 +4,7 @@ Hackmud&trade; `game_scripts`
 
 # About
 
-*** `:::` ALERT!!! `:::` Use at your own **Risk!! ++SPOILERS AHEAD** `:::` ***
+`:::` **ALERT!!!** `:::` Use at your own **Risk!! SPOILERS AHEAD**
 
 1. There be dragons here
 2. Abandon all hope ye' who pass
