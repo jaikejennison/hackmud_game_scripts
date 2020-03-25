@@ -18,9 +18,9 @@ function (c, a) {
         i++;
     }
     while (i < 10);
-
+    
     return text;
-
+    
     var zurich = {
         dump: "#s.zurich.cashdump",
         balance: "#s.accts.balance",
@@ -31,16 +31,10 @@ function (c, a) {
         zurichDump : function() {
             return this.dump+"({"+this.lastName;
         }
-
     }
-
-
-    //return #s.zurich.cashdump ({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
-
-
+    //return #s.zurich.cashdump ({ user: "", pwd: "", amt: str+=accts_balance+=str, confirm: true });
         var str = '"';
-        res=i.call({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
-        //return #s.zurich.cashdump ({ user: "n_v83r", pwd: "~Jaike51082", amt: str+=accts_balance+=str, confirm: true });
+        res=i.call({ user: "", pwd: "", amt: str+=accts_balance+=str, confirm: true });
+        //return #s.zurich.cashdump ({ user: "", pwd: "", amt: str+=accts_balance+=str, confirm: true });
         return res;
-
 }
