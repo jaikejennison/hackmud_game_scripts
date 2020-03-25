@@ -1,43 +1,48 @@
 Hackmud&trade; `game_scripts`
+
 -------------
 
-## About:
+# About
 
-###### `:::` ALERT!!! `:::` Use at your own **Risk!! ++SPOILERS AHEAD** `:::`
+*** `:::` ALERT!!! `:::` Use at your own **Risk!! ++SPOILERS AHEAD** `:::` ***
 
 1. There be dragons here
-* Abandon all hope ye' who pass
-* There are better than I on Github
+2. Abandon all hope ye' who pass
+3. There are better than I on Github
 
-# Game Notes
+## Game Notes
 
 Please don't sue me :hamster:
 
-###### IN THE BEGINNING
+### IN THE BEGINNING
+
 ```js
 things {
     {angie:"7r,4E4edd3Sto"},
     {f1rST:"H41f", S3c0nd: "h@/_F"},
     {a3z:"cradle",wzj:2,c0o:"grave"},
     {letters_1:"TWO",letters_2:"FOUR",letters_3:"TEN"}
+    // Direct enquiries to conduct@hackmud.com
+    // Ask our helperbot if they can do anything to make your day better.
+    halperyon.helpdesk {password:"sad",wzj:2,c0o:"grave",a3z:"cradle"}
+    petra.che_trust{}
+    petra.office_mailroom_3fotu1{
+        {activity:"stationary"},{activity:"letters",read:[1-3]},{}
+    }
+    petra.che_trust
+    petra.office_mailroom_3fotu1{activity:"stationary"}
 }
-// The Holy Checksum;
+
+// The Holy Checksum
 `w3sjci33dz9RiSkMeSsAgE0S44dZt856se7
 sa334che8iZEoso552whY22voSe9ksOsz21
 532wWdzssewoRrY94z22toseNoW0zos45z3`
 
-// Direct enquiries to conduct@hackmud.com
-// Ask our helperbot if they can do anything to make your day better.
-halperyon.helpdesk { password: "sad", wzj: 2, c0o: "grave", a3z: "cradle" }
-petra.che_trust{ }
-petra.office_mailroom_3fotu1{
-    { activity: "stationary" }, { activity: "letters", read: [1 - 3] }, {  }
-}
-petra.che_trust
-petra.office_mailroom_3fotu1{activity:"stationary"}
+// PvP Fast Track
+sys.migrate{confirm:true}
 ```
 
-#### HACKING || CRACKING
+### HACKING || CRACKING
 
 ```js
 //  Implementation of trilinear interpolation:
@@ -54,14 +59,9 @@ var accts_balance = #s.accts.balance
 var drain_accts = #s.xfer_gc_to({to:"your_name",amunt:accts_balance})
 
 // PLACES
-dtr.man { page: "kode.xword" }
-dtr.man { page: "kode.gaia" }
-d0s.list_npcs { npc:true }
-sh1ro.harvest_t1 { cmd:"find" }
-ada.breach_t1 { s:"npc.lock" }
-pay.pal{ api: {user: "Your Username", key: "Your API Key" }, ... }
-pay.pal {
-    routing_number: "PAYZJJVCPIVHWZ1SSWR6HSYHEZBH0V4VQP0038",
-    api_key:  "royauo_qnteeb-1a1ls6jk5cc5grsujo"
-}
+dtr.man{page:"kode.xword"}
+dtr.man{page:"kode.gaia"}
+d0s.list_npcs{npc:true}
+sh1ro.harvest_t1{cmd:"find"}
+ada.breach_t1{s:"npc.lock"}
 ```
